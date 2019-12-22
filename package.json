@@ -15,7 +15,9 @@
     "type": "git",
     "url": "https://github.com/lawvs/hitokoto-lore.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "underlordsconstants": "github:odota/underlordsconstants"
+  },
   "devDependencies": {
     "@babel/core": "^7.7.7",
     "@babel/plugin-proposal-optional-chaining": "^7.7.5",

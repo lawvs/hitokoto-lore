@@ -12,3 +12,5 @@ global.ROOT = buildDir
 if (!fs.existsSync(buildDir)) {
   fs.mkdirSync(buildDir)
 }
+
+require('./underlords')
