@@ -1,12 +1,10 @@
 // https://github.com/odota/underlordsconstants
-import fs from 'fs'
+import fs from 'fs-extra'
 import path from 'path'
 
 const outputDir = path.resolve(global.ROOT, './underlords')
 
-if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir)
-}
+fs.ensureDirSync(outputDir)
 
 const LANGUAGE_MAPPING = [
   {
@@ -20,7 +18,7 @@ const LANGUAGE_MAPPING = [
     locale: 'ja-JP',
     lng: '日本語',
     fileKey: 'ja',
-    delimiter: '—',
+    delimiter: /—|－/,
   },
   {
     locale: 'en-US',
@@ -33,11 +31,14 @@ const LANGUAGE_MAPPING = [
 const files = LANGUAGE_MAPPING.map(({ fileKey, locale, delimiter }) => ({
   delimiter,
   locale,
-  source: 'underlords',
   data: require(`underlordsconstants/build/underlords_localization_${fileKey}.json`),
 }))
 
-const blockKeys = ['dac_map_challenge_combine_3stars_lore'] // "This is the lore for the challenge where you need to get a 3 star of some particular hero."
+const blockKeys = [
+  'dac_item_anessixs_gift_lore',
+  'dac_item_cinderwall_lore',
+  'dac_map_challenge_combine_3stars_lore',
+]
 /**
  * filter aimless data
  * @param {{ [k: string]: string }} json
@@ -55,29 +56,46 @@ const filterKey = json =>
 
 /**
  *
- * @param { delimiter: string, data: { [k: string]: string }} json
- * @returns {{ data: { author?: string, content: string }, [x: string]: string}}
+ * @param {{ delimiter: string | RegExp, data: { [x: string]: string }}} json
  */
 const format = ({ delimiter, data, ...rest }) => ({
   ...rest,
   data: Object.values(data).map(lore => {
     const [content, author] = lore.split(delimiter)
     return {
-      author: author?.trim().replace(/^<i>|<\/i>$/g, ''),
       content,
+      author: author?.trim().replace(/^<i>|<\/i>$/g, ''),
     }
   }),
 })
 
-const out = json =>
-  fs.writeFileSync(
-    path.resolve(outputDir, `${json.locale}.json`),
-    JSON.stringify(json.data, undefined, 2),
-  )
+/**
+ * @param {{ locale: string, data: Object[]}} json
+ */
+const out = json => {
+  const langDir = path.resolve(outputDir, json.locale)
+  fs.ensureDirSync(langDir)
+  fs.outputJson(path.resolve(langDir, 'all.json'), json.data, { spaces: 2 })
+  json.data.forEach((value, index) => {
+    fs.outputJson(path.resolve(langDir, `${index}.json`), value, { spaces: 2 })
+  })
+  return json
+}
 
 const mapData = f => json => ({ ...json, data: f(json.data) })
 
-files
-  .map(mapData(filterKey))
-  .map(format)
-  .map(out)
+/**
+ * @type {{locale: string, data: { author: string, content: string }}[]}
+ */
+const data = files.map(mapData(filterKey)).map(format)
+
+data.map(out)
+
+const meta = {
+  name: 'underlords',
+  languages: data.map(d => d.locale),
+  total: data[0].data.length,
+  created: new Date(),
+}
+
+fs.outputJson(path.resolve(outputDir, 'meta.json'), meta, { spaces: 2 })
