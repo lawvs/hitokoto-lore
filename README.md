@@ -6,4 +6,5 @@
 
 ## Thanks
 
+- [Dota Underlords](https://underlords.com/)
 - [underlordsconstants](https://github.com/odota/underlordsconstants)

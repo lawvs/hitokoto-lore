@@ -2,7 +2,7 @@
 import fs from 'fs-extra'
 import path from 'path'
 
-const outputDir = path.resolve(global.ROOT, './underlords')
+const outputDir = path.resolve(global.BUILD_ROOT, './underlords')
 
 fs.ensureDirSync(outputDir)
 
@@ -13,7 +13,6 @@ const LANGUAGE_MAPPING = [
     fileKey: 'zh-CN',
     delimiter: '-',
   },
-
   {
     locale: 'ja-JP',
     lng: '日本語',
@@ -98,4 +97,4 @@ const meta = {
   created: new Date(),
 }
 
-fs.outputJson(path.resolve(outputDir, 'meta.json'), meta, { spaces: 2 })
+fs.outputJsonSync(path.resolve(outputDir, 'meta.json'), meta, { spaces: 2 })
