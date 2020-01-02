@@ -1,6 +1,6 @@
 require('@babel/register')({
   presets: ['@babel/preset-env'],
-  plugins: ['@babel/plugin-proposal-optional-chaining', '@babel/plugin-syntax-top-level-await'],
+  plugins: ['@babel/plugin-proposal-optional-chaining'],
 })
 
 const fs = require('fs-extra')

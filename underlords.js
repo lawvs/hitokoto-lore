@@ -71,7 +71,7 @@ const format = ({ delimiter, data, ...rest }) => ({
 /**
  * @param {{ locale: string, data: Object[]}} json
  */
-const out = json => {
+const output = json => {
   const langDir = path.resolve(outputDir, json.locale)
   fs.ensureDirSync(langDir)
   fs.outputJson(path.resolve(langDir, 'all.json'), json.data, { spaces: 2 })
@@ -84,11 +84,11 @@ const out = json => {
 const mapData = f => json => ({ ...json, data: f(json.data) })
 
 /**
- * @type {{locale: string, data: { author: string, content: string }}[]}
+ * @type {{locale: string, data: { author?: string, content: string }}[]}
  */
 const data = files.map(mapData(filterKey)).map(format)
 
-data.map(out)
+data.map(output)
 
 const meta = {
   name: 'underlords',

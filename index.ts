@@ -4,14 +4,13 @@ import meta from './meta.json'
 
 interface Hitokoto {
   content: string
-  author: string
+  author?: string
 }
 
 interface LoreOptions {
   baseUrl: string
   language: 'en-US' | 'zh-CN' | 'ja-JP' | 'random'
   meta: typeof meta
-  // mode: 'auto' | 'manual'
 }
 
 const locales: LoreOptions['language'][] = ['en-US', 'zh-CN', 'ja-JP', 'random']
@@ -48,6 +47,15 @@ function getRandomInt(min: number, max: number) {
   return Math.floor(Math.random() * (max - min + 1)) + min
 }
 
+/**
+ * @example
+ * const lore = new Lore()
+ * // With custom options `new Lore({ language: 'random' })`
+ * await lore.fastHitokoto()
+ * // "Be a boon to your allies.  ——Zenok, White Spire Fence"
+ * await lore.hitokoto()
+ * // {content: "Ahhh there's that famous human spirit. ", author: "Zenok, White Spire Fence"}
+ */
 class Lore {
   defaultOptions: Readonly<LoreOptions> = {
     baseUrl: 'https://raw.githubusercontent.com/lawvs/hitokoto-lore/gh-pages',
@@ -96,7 +104,7 @@ class Lore {
 
   async fastHitokoto() {
     const hitokoto = await this.hitokoto()
-    return `${hitokoto.content} ——${hitokoto.author}`
+    return `${hitokoto.content}${hitokoto.author ? ` — ${hitokoto.author}` : ''}`
   }
 }
 
