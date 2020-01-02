@@ -4,7 +4,7 @@
   "description": "hitokoto",
   "module": "build/index.esm.js",
   "scripts": {
-    "start": "yarn clean && yarn update && yarn build",
+    "start": "yarn clean && yarn update && yarn build && cp index.html build",
     "build": "rollup -c rollup.config.js",
     "update": "node build.js",
     "clean": "rm -rf build",

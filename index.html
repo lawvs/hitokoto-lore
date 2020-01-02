@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Hitokoto</title>
+    <style>
+      body {
+        margin: 0;
+      }
+
+      main {
+        height: 100vh;
+        width: 100vw;
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      #lore {
+        font-size: 16px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main>
+      <p id="lore"></p>
+    </main>
+  </body>
+
+  <script src="./main.global.js"></script>
+  <script>
+    const lore = new Lore({ language: 'random' })
+    const update = () => {
+      lore.fastHitokoto().then(t => (document.querySelector('#lore').textContent = t))
+    }
+
+    update()
+    setInterval(update, 3000)
+  </script>
+</html>
