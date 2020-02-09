@@ -59,9 +59,10 @@ const filterKey = json =>
  */
 const format = ({ delimiter, data, ...rest }) => ({
   ...rest,
-  data: Object.values(data).map(lore => {
+  data: Object.entries(data).map(([key, lore]) => {
     const [content, author] = lore.split(delimiter)
     return {
+      key,
       content,
       author: author?.trim().replace(/^<i>|<\/i>$/g, ''),
     }

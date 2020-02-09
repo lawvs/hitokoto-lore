@@ -3,6 +3,7 @@ import sample from 'lodash.sample'
 import meta from './meta.json'
 
 interface Hitokoto {
+  key: string
   content: string
   author?: string
 }
