@@ -5,6 +5,8 @@ import path from 'path'
 const outputDir = path.resolve(global.BUILD_ROOT, './underlords')
 const abilitiesOutputDir = path.resolve(global.BUILD_ROOT, './underlords-abilities')
 
+const now = new Date()
+
 fs.ensureDirSync(outputDir)
 
 const LANGUAGE_MAPPING = [
@@ -31,6 +33,9 @@ const LANGUAGE_MAPPING = [
 const files = LANGUAGE_MAPPING.map(({ fileKey, locale, delimiter }) => ({
   delimiter,
   locale,
+  name: require(`underlordsconstants/build/underlords_localization_${fileKey}.json`)[
+    'dac_gamename'
+  ],
   data: require(`underlordsconstants/build/underlords_localization_${fileKey}.json`),
 }))
 
@@ -71,7 +76,6 @@ const filterKey = json =>
   )
 
 /**
- *
  * @param {{ delimiter: string | RegExp, data: { [x: string]: string }}} json
  */
 const format = ({ delimiter, data, ...rest }) => ({
@@ -89,13 +93,25 @@ const format = ({ delimiter, data, ...rest }) => ({
 /**
  * @param {{ locale: string, data: Object[]}} json
  */
-const output = dir => json => {
+const output = (id, dir) => json => {
   const langDir = path.resolve(dir, json.locale)
   fs.ensureDirSync(langDir)
+  // output complete data
   fs.outputJson(path.resolve(langDir, 'all.json'), json.data, { spaces: 2 })
+  // output splitted data
   json.data.forEach((value, index) => {
     fs.outputJson(path.resolve(langDir, `${index}.json`), value, { spaces: 2 })
   })
+
+  // output meta
+  const meta = {
+    id,
+    name: json.name,
+    language: json.locale,
+    total: json.data.length,
+    created: now,
+  }
+  fs.outputJsonSync(path.resolve(langDir, 'meta.json'), meta, { spaces: 2 })
   return json
 }
 
@@ -106,16 +122,7 @@ const mapData = f => json => ({ ...json, data: f(json.data) })
  */
 const data = files.map(mapData(filterKey)).map(format)
 
-data.map(output(outputDir))
-
-const meta = {
-  name: 'underlords',
-  languages: data.map(d => d.locale),
-  total: data[0].data.length,
-  created: new Date(),
-}
-
-fs.outputJsonSync(path.resolve(outputDir, 'meta.json'), meta, { spaces: 2 })
+data.map(output('underlords', outputDir))
 
 // build underlords abilities
 console.log('Build underlords abilities...')
@@ -123,18 +130,12 @@ console.log('Build underlords abilities...')
 const abilitiesFiles = LANGUAGE_MAPPING.map(({ fileKey, locale, delimiter }) => ({
   delimiter,
   locale,
+  name: require(`underlordsconstants/build/underlords_localization_${fileKey}.json`)[
+    'dac_gamename'
+  ],
   data: require(`underlordsconstants/build/underlords_localization_abilities_${fileKey}.json`),
 }))
 
 const abilitiesData = abilitiesFiles.map(mapData(filterKey)).map(format)
 
-abilitiesData.map(output(abilitiesOutputDir))
-
-const abilitiesMeta = {
-  name: 'underlords-abilities',
-  languages: abilitiesData.map(d => d.locale),
-  total: abilitiesData[0].data.length,
-  created: new Date(),
-}
-
-fs.outputJsonSync(path.resolve(abilitiesOutputDir, 'meta.json'), abilitiesMeta, { spaces: 2 })
+abilitiesData.map(output('underlords-abilities', abilitiesOutputDir))
