@@ -1,0 +1,524 @@
+[
+  {
+    "key": "dac_unit_neutral_melee_lore",
+    "content": "你看，说老实话，我不知道这些家伙究竟是自愿的还是被洗脑了，但让他们打仗花不了几个钱，这对我来说是好事。",
+    "author": "精打细算的战争煽动者格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_ranged_lore",
+    "content": "并不是所有普瑞蕾斯的信徒都愿意为了一块发光的石头送命。他们有些人更愿意为了白花花的银子拼命。",
+    "author": "格斗士招募者格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_melee_mega_lore",
+    "content": "现在这个大个子有个梦想。虽然他可能活不到实现梦想那一天，但是他这份信念还是值得敬重。",
+    "author": "狡猾的经纪人格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_golem_a_lore",
+    "content": "朋友，这个呢，是一大块石头。",
+    "author": "挑剔的分析师格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_golem_b_lore",
+    "content": "朋友，这个呢，是块小点但一样危险的石头。",
+    "author": "业余地质学家格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_wolf_big_lore",
+    "content": "没啥可说的，就是狼。",
+    "author": "动物爱好者格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_wolf_small_lore",
+    "content": "他们把你的脸扯烂的时候，你就不觉得他们样子可爱了。",
+    "author": "护仔过头的格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_bear_a_lore",
+    "content": "我喜欢跟人说这些就是重伤奎堤亚斯的地狱熊怪。",
+    "author": "专业吹牛大师格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_bear_b_lore",
+    "content": "我觉得他们是兄弟、姐妹、夫妻，或者之类的关系。",
+    "author": "注意细节的格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_vulture_a_lore",
+    "content": "我以前会把他们的翅膀剪掉，这样他们就飞不出竞技场了，但是枭兽们把我派去剪翅膀的人都吃了。幸好他们习惯了送上门的食物，所以也不主动飞走了。",
+    "author": "做柠檬汁的格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_vulture_b_lore",
+    "content": "这些家伙到哪都是麻烦，但是特别招人喜欢。",
+    "author": "战争煽动者格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_thunder_lizard_big_lore",
+    "content": "半人马喜欢和这些坏小子摔跤玩。半人马可真是够傻的。",
+    "author": "格瑞克说得好像亲眼所见"
+  },
+  {
+    "key": "dac_unit_neutral_thunder_lizard_small_lore",
+    "content": "要说我对这一行有什么了解的，那就是：小孩子喜欢看巨型蜥蜴绞碎格斗士。",
+    "author": "行内人格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_black_dragon_lore",
+    "content": "咱们不谈我是从哪儿把这东西弄到手的。",
+    "author": "贩龙的格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_troll_dark_a_lore",
+    "content": "金玉良言：别和这些家伙拼酒。",
+    "author": "格瑞克分享来之不易的智慧"
+  },
+  {
+    "key": "dac_unit_neutral_troll_dark_b_lore",
+    "content": "说真的，这家伙吓得我魂飞魄散。",
+    "author": "格瑞克说要和天才保持安全距离"
+  },
+  {
+    "key": "dac_unit_neutral_troll_dark_frost_lore",
+    "content": "并不是所有的黑暗巨魔牧师都跟着吉姆伊到了悲玫城。有的人想要在这里开始新生活。",
+    "author": "历史爱好者格瑞克"
+  },
+  {
+    "key": "dac_unit_neutral_nian_lore",
+    "content": "女士们先生们，下面有请野性未驯、不可匹敌、金刚不坏的年兽！",
+    "author": "格瑞克煽动群众情绪"
+  },
+  {
+    "key": "dac_unit_neutral_roshan_lore",
+    "content": "他们再强也比不过有不朽盾的。",
+    "author": "战争煽动者格瑞克"
+  },
+  {
+    "key": "dac_unit_anessix_goleme_lore",
+    "content": "不过就是个大块头想要混口饭吃罢了。",
+    "author": "挑剔的分析师格瑞克"
+  },
+  {
+    "key": "dac_item_claymore_lore",
+    "content": "让我说啥好呢？这是把剑吗？",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_brooch_lore",
+    "content": "若是想找架打，这可是完美物件。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_mana_sponge_lore",
+    "content": "状态最差的时候往往会有最英勇的举动。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_quelling_blade_lore",
+    "content": "格瑞克最恨有人买这个。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_boots_of_speed_lore",
+    "content": "对需要动动腿的懒人来说再好不过了。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_tranquil_boots_lore",
+    "content": "你卖给我的速度之靴基本上是一文不值。给我点用得上的好东西。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_octarine_fragment_lore",
+    "content": "这只是让你尝尝玲珑心的味道。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_vitality_booster_lore",
+    "content": "这不能扭转局势，但能够让你熬过困境。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_cloak_lore",
+    "content": "出门要小心，暴风雨就要来了……",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_blink_dagger_lore",
+    "content": "那个高地人一直问我要闪烁斧……",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_mask_of_madness_lore",
+    "content": "天才和疯子的界线在哪里由谁说了算？",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_blade_mail_lore",
+    "content": "我每年会因为穿这玩意的人损失 3 个顾客。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_battle_fury_lore",
+    "content": "这些事情我们知道永远不会是单打独斗……最好有备无患。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_dagon_lore",
+    "content": "有的人说痛打落水狗是不对的……说这话的人在白色尖塔都熬不过一个星期。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_sacred_relic_lore",
+    "content": "为了让你获得一小份神力，我觉得我开的这个价钱很公道了。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_maelstrom_lore",
+    "content": "天气虽然不受控制……但是你还能够动点小手脚的。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_refresher_orb_lore",
+    "content": "我见过这玩意改变了许多战斗的结局。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_heart_of_tarrasque_lore",
+    "content": "命薄的死得早。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_divine_rapier_lore",
+    "content": "有时候神也要尝尝鲜血的味道。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_assault_cuirass_lore",
+    "content": "冲锋陷阵要动脑。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_black_king_bar_lore",
+    "content": "刀枪不入，水火不侵。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_mekansm_lore",
+    "content": "不要管是怎么见效的，见效就好。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_arcane_boots_lore",
+    "content": "要当个好战友。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_daedalus_lore",
+    "content": "罗林·拉山不止一次借过这件利器。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_radiance_lore",
+    "content": "啊，看来你也和哈伯根一样感性了……",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_skadi_lore",
+    "content": "你不会想知道我怎么弄到这个的……",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_chainmail_lore",
+    "content": "又实用又可靠。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_gloves_of_haste_lore",
+    "content": "如果你想要迅速击倒敌人，那么这双手套就是为你准备的。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_moon_shard_lore",
+    "content": "有人说这是癫狂之月的碎片。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_blight_stone_lore",
+    "content": "微小却有效的工具。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_shivas_guard_lore",
+    "content": "不要打听这是怎么从蓝宝石教团的宝库中流出来的。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_bloodthorn_lore",
+    "content": "挥舞这把利刃不会让你更受欢迎，但是肯定能要了你敌人的命。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_hood_of_defiance_lore",
+    "content": "面对敌人时要昂首挺胸。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_vanguard_lore",
+    "content": "如果要保护自己，这是最好的选择。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_basher_lore",
+    "content": "受到震荡的敌人离死不远了。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_pipe_of_insight_lore",
+    "content": "你以为修补匠疯狂的主意是从哪儿来的？",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_bloodbound_hat_lore",
+    "content": "不是只有瑞塔一个人知道怎样才能更强大。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_sheepstick_lore",
+    "content": "我告诉你，这玩意萨满有多少要多少。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_force_staff_lore",
+    "content": "据说阿哈利姆有一根更别致的法杖，但是我从没见过。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_never_die_hat_lore",
+    "content": "虽然救不了你的命，但可以帮你找个垫背的。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_gold_on_last_hit_hat_lore",
+    "content": "这是我在半人马的尸体上找到的，希望它带给你的好运比那头半人马多。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_final_flash_hat_lore",
+    "content": "不到走投无路时，你不会知道自己到底有多少能力。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_hype_breaker_lore",
+    "content": "有人对魅影之纱刺客很好奇，却又不想牙牙学语之时就被劫去。这就是为那些人准备的。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_hype_harvester_lore",
+    "content": "这面锣，我们为弗朗泽尔敲响过，也为艾布妈妈敲响过。赶紧祈祷永远不会为你敲响吧。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_summoning_stone_lore",
+    "content": "把你的敌人淹没在源源不断的血肉潮水之中。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_better_units_in_shop_lore",
+    "content": "我可以把你引荐给几个人……",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_additional_unit_cap_in_shop_lore",
+    "content": "我的建议？不要搞公平竞争。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_cheaper_units_in_shop_lore",
+    "content": "你是我最喜欢的犯罪头子，别跟人说啊。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_extra_damage_per_unit_lore",
+    "content": "有时候不光是胜负问题，你需要让他们明白。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_free_first_reroll_lore",
+    "content": "既然不入眼，就不要勉强。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_humans_turn_undead_lore",
+    "content": "这个小镇有办法让你全力以赴。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_elves_start_invisible_lore",
+    "content": "看不见就更刺不中了。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_shamans_hex_attackers_lore",
+    "content": "你应该看看上一个背叛恩诺的出什么事了。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_discount_rerolls_lore",
+    "content": "既然不入眼，就不要勉强。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_assassins_blind_on_landing_lore",
+    "content": "葵艾特打架不管公不公平，只看能不能赢。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_extra_items_lore",
+    "content": "我再给你看样东西……",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_better_items_lore",
+    "content": "你真正想要的东西在后面。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_bonus_damage_on_low_life_lore",
+    "content": "困兽最危险。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_prevent_next_life_loss_lore",
+    "content": "有时候你需要的只是第二次机会。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_mechs_explode_on_death_lore",
+    "content": "这就是为什么我不信任基恩人的玩意。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_trolls_have_aspd_aura_lore",
+    "content": "如果有一大群巨魔要揍你，你能有多少办法？",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_goblins_give_gold_on_last_hit_lore",
+    "content": "我觉得这不能叫做恶心，毕竟死人花不了钱了。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_orcs_get_extra_hp_lore",
+    "content": "我曾经问过小谷，她有没有把斧王杀的人通通记下来……她说背包就是拿来装名册的。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_demon_hunters_steal_demon_lore",
+    "content": "在白色尖塔，天天都会形成暂时性的结盟。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_naga_skin_lore",
+    "content": "有因就有果。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_knights_absorption_lore",
+    "content": "有的人一生致力于自我牺牲与崇高事业……我不是那种人。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_dragons_hoard_lore",
+    "content": "我对龙族了解得不多，但是我也知道要是哪个龙族有个宝库，那多半说明这家伙是吃了不少人才拿到的。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_elementals_spawn_eidolons_lore",
+    "content": "对有的人来说，死亡只是个开始……",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_hunters_band_lore",
+    "content": "我见到过一群半人马猎人轻松打败一头雷肤兽。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_humans_debuff_resist_lore",
+    "content": "啊，著名的人类精神。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_druids_heal_over_time_on_death_lore",
+    "content": "有时候，能从死亡中获得慰藉。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_beast_bleed_lore",
+    "content": "兄弟，伤得不轻啊。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_warriors_never_die_lore",
+    "content": "死亡也挡不住最坚毅的勇士。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_warlocks_spell_lifesteal_lore",
+    "content": "说真的，这个有点怪。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_undeads_stop_healing_lore",
+    "content": "有人就是喜欢见到别人受苦。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_lower_healing_lore",
+    "content": "豺狼人对玫叶城之战无动于衷。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_mages_ghost_on_low_health_lore",
+    "content": "法师总是有杀手锏。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_healing_ward_lore",
+    "content": "这是个取之不尽的礼物。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_barricade_lore",
+    "content": "找不到掩护时，就随身带一个吧。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_tombstone_lore",
+    "content": "这些尸体终于派上用场了。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_item_target_dummy_lore",
+    "content": "可悲的是，我以前有些队友比这堆草包还烂。",
+    "author": "白色尖塔销赃人泽诺克"
+  },
+  {
+    "key": "dac_challenge_map_challenge_100_lore",
+    "content": "一路上小心",
+    "author": "我的姨婆玛姆住在三楼，习惯把尿壶倒在路人身上。"
+  },
+  {
+    "key": "dac_map_challenge_combine_2stars_lore",
+    "content": "总比掉进蛇窝要好。"
+  },
+  {
+    "key": "dac_challenge_map_tutorial_1_lore",
+    "content": "你可是臭名昭著啊。"
+  },
+  {
+    "key": "dac_challenge_play_as_underlord_lore",
+    "content": "你肯定是个杀手。"
+  }
+]

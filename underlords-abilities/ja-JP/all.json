@@ -1,0 +1,440 @@
+[
+  {
+    "key": "dac_ability_antimage_mana_break_lore",
+    "content": "アンチメイジが追ってきている…準備はできている。",
+    "author": "トゥラス、タイラーエステートからの脱走者"
+  },
+  {
+    "key": "dac_ability_queenofpain_scream_of_pain_lore",
+    "content": "アカシャは親友とは言えないが、後で私に対して威張れると思えば喜んで助けになってくれるだろう。",
+    "author": "アネシックス、実利的な悪魔"
+  },
+  {
+    "key": "dac_ability_lina_laguna_blade_lore",
+    "content": "リナをホワイトスパイアに行くように説得するのは難しいことじゃなかったさ。俺たち、お互いの仕事にほれ込んでるからな。",
+    "author": "ホブゲン、プロの放火犯"
+  },
+  {
+    "key": "dac_ability_natures_prophet_summon_tree_lore",
+    "content": "エンノは森の仲間たちに助けを求めた…これはヤバいことになるかもしれない。",
+    "author": "オニア、追放されたレヴテルの商人"
+  },
+  {
+    "key": "dac_ability_natures_prophet_wrath_of_nature_lore",
+    "content": "実際、私の目的など意味を持たないのだ。殺すのに武器は要らない。必要なのは自然の力に委ねる忍耐だ。",
+    "author": "クワイエット、時計仕掛けの計略家"
+  },
+  {
+    "key": "dac_ability_windrunner_powershot_lore",
+    "content": "旅の途中でたくさんの友達ができた。頼み事をすることに躊躇なんてしないわよ。",
+    "author": "レン、世界中を旅する者"
+  },
+  {
+    "key": "dac_ability_witch_doctor_paralyzing_cask_lore",
+    "content": "あんたの仕事っぷりを見るのは気持ちがいいね、ドク…",
+    "author": "ホブゲン、フェイ・ミスチフメーカー"
+  },
+  {
+    "key": "dac_ability_juggernaut_blade_fury_lore",
+    "content": "ユルネロはただの戦士じゃない。奴はジャガーノートだ。味方にできれば、あっという間に死体の山ができるぜ。",
+    "author": "あらゆる角度から分析するグレック"
+  },
+  {
+    "key": "dac_ability_sandking_burrowstrike_lore",
+    "content": "トンネルを張り巡らせるのには大変な苦労をしたんだ。俺らがせっかく作り上げたものをサンドキングはぶち壊しやがる。",
+    "author": "ジュル、密造酒王"
+  },
+  {
+    "key": "dac_ability_sandking_caustic_finale_lore",
+    "content": "防水シートを使えば？",
+    "author": "アネシックス、素朴な極悪人"
+  },
+  {
+    "key": "dac_ability_shadow_fiend_requiem_lore",
+    "content": "リストゥールの宮廷と私の間には…理解がある。",
+    "author": "アネシックス、地上の悪魔"
+  },
+  {
+    "key": "dac_ability_phantom_assassin_coup_de_grace_lore",
+    "content": "彼女はクワーティアスを暗殺した。私のことも狙ってると考えるべきじゃない？",
+    "author": "オニア、被害妄想の商人"
+  },
+  {
+    "key": "dac_ability_drow_ranger_trueshot_aura_lore",
+    "content": "トラクセクス、俺とお前で頂点まで登り詰めるんだ。俺を信じろ。",
+    "author": "グレック、いかさまセールスマン"
+  },
+  {
+    "key": "dac_ability_morphling_waveform_lore",
+    "content": "モーフリングのようなやつらに取り入ることができるトゥラスの才能は…厄介だ。",
+    "author": "クワイエット、時計仕掛けの陰謀家"
+  },
+  {
+    "key": "dac_ability_axe_berserkers_call_lore",
+    "content": "アックスの助けを得るのなんて簡単よ…ビールをおごって、武勇伝を聞いてあげると約束すればいいだけ。",
+    "author": "反乱軍結集中のレン"
+  },
+  {
+    "key": "dac_ability_razor_plasma_field_lore",
+    "content": "ホワイトスパイアの街での彼を恐ろしいと思うなら、細道の迷宮での彼を見るがいい。",
+    "author": "アネシックス、競技ファン"
+  },
+  {
+    "key": "dac_ability_crystal_maiden_brilliance_aura_lore",
+    "content": "彼女のお目当ては俺なのか、トゥラスなのか…突き止めてやろう。",
+    "author": "ジュル、アイスラックの酒密造者"
+  },
+  {
+    "key": "dac_ability_crystal_maiden_frostbite_lore",
+    "content": "ホワイトスパイアでは色々ありすぎて、見落とすこともよくあるのさ。例えば、アイスラックのクリスタルメイデンは昔は仲間を救うだけだったんだが、最近は敵を凍らせたりもするらしい。初耳だったよ。",
+    "author": "世事に疎いカール"
+  },
+  {
+    "key": "dac_ability_kunkka_ghostship_lore",
+    "content": "イーブママにはたくさん友達がいた…クンカだって私と同じくらい答えを求めている。",
+    "author": "レン、復讐を誓う娘"
+  },
+  {
+    "key": "dac_ability_tiny_toss_lore",
+    "content": "エンノのやつ、どうやら屈強な助っ人を見つけたらしいな。",
+    "author": "大きな問題にぶち当たったグレック"
+  },
+  {
+    "key": "dac_ability_puck_illusory_orb_lore",
+    "content": "パックの見かけに騙されるんじゃない。あれは真の厄介者だぞ。",
+    "author": "ホブゲンの賢い言葉"
+  },
+  {
+    "key": "dac_ability_puck_phase_shift_lore",
+    "content": "あのチビ、必要な時にいたためしがない",
+    "author": "ホブゲン、せっかちなアンダーロード"
+  },
+  {
+    "key": "dac_ability_clockwerk_battery_assault_lore",
+    "content": "ブラス・ヘラルドならあなたのことを忌まわしいと言うかもしれないが…キーン、私はあなたを賢いと思っている。",
+    "author": "クワイエット、異端のオートマトン"
+  },
+  {
+    "key": "dac_ability_lich_chain_frost_lore",
+    "content": "お互いを助け合えるだろう、リッチ。",
+    "author": "ファウスト的な取引をするトゥラス"
+  },
+  {
+    "key": "dac_ability_tidehunter_ravage_lore",
+    "content": "クンカ、あなたがリヴァイアサンに追われていない時の方がもっと好きだったな。",
+    "author": "レン、都合のいい時だけの友人"
+  },
+  {
+    "key": "dac_ability_shadow_shaman_voodoo_lore",
+    "content": "ショーマンとはああいう男のことを言うんだ！",
+    "author": "プロらしい礼儀を見せるグレック"
+  },
+  {
+    "key": "dac_ability_enigma_midnight_pulse_lore",
+    "content": "この世にはお前にはどうにもできないものがあるのだよ。",
+    "author": "トゥラス、狂ったメイジ"
+  },
+  {
+    "key": "dac_ability_tinker_heat_seeking_missile_lore",
+    "content": "キーン族を野放しにしておくと、いずれ問題になる。",
+    "author": "統一戦線の形成を試みるオニア"
+  },
+  {
+    "key": "dac_ability_sniper_assassinate_lore",
+    "content": "昔、前座にキーンを使ってたことがある。観客は大喜びだが、法外な保険を払う羽目になったぜ。",
+    "author": "儲けのことしか頭にないグレック"
+  },
+  {
+    "key": "dac_ability_necrophos_death_pulse_lore",
+    "content": "さぁ、ネクロフォス…欲しいものがあるんだろう？",
+    "author": "アネシックス、銀の舌を持つ悪魔"
+  },
+  {
+    "key": "dac_ability_slardar_amplify_damage_lore",
+    "content": "俺はスラークとだって取引できたんだぜ。スラーダーとだって合意できるに決まってる。",
+    "author": "ジュル、刑務所ワイン愛好家"
+  },
+  {
+    "key": "dac_ability_beastmaster_wild_axes_lore",
+    "content": "あのチビのために一体何人の自然愛好家が必要なんだい？",
+    "author": "エンノについて文句を言うグレック"
+  },
+  {
+    "key": "dac_ability_venomancer_plague_ward_lore",
+    "content": "あなたが作り出したものはなんと美しいことか…あなたの庭の世話をこの私に手伝わせてください…",
+    "author": "おべっかで欲しいものが手に入ることに気付いたトゥラス"
+  },
+  {
+    "key": "dac_ability_venomancer_venomous_gale_lore",
+    "content": "ダメだダメだ、あいつを舞台の中央に立たせると、観客の半分が死ぬんだ。誰か他の奴を探せ。",
+    "author": "孫悟空の代わりを検討するグレック"
+  },
+  {
+    "key": "dac_ability_templar_assassin_refraction_lore",
+    "content": "手を貸してくれるなら借りは帳消しよ。",
+    "author": "できる限りの手助けを得るレン"
+  },
+  {
+    "key": "dac_ability_templar_assassin_meld_lore",
+    "content": "お前の才能は私の計画遂行に打ってつけだ。",
+    "author": "仕事を与えるアネシックス"
+  },
+  {
+    "key": "dac_ability_viper_viper_strike_lore",
+    "content": "私たちはそんなに違わない…私も奴隷であることがどういうことなのか知っている。",
+    "author": "クワイエット、陰謀装置"
+  },
+  {
+    "key": "dac_ability_viper_nethertoxin_lore",
+    "content": "足元に気を付けろ、スラーク。私から盗みを働こうとすると、ひどい目に遭うだろう。",
+    "author": "雇った力について明かすオニア"
+  },
+  {
+    "key": "dac_ability_viper_corrosive_skin_lore",
+    "content": "そいつでコートを作ってみたいものだ...",
+    "author": "大きな夢を持つカール"
+  },
+  {
+    "key": "dac_ability_luna_moon_glaive_lore",
+    "content": "あんたが言ってることは半分もわからんが、あんたがそいつを投げるやり方は気に入ったよ。",
+    "author": "グレック、真の社交家"
+  },
+  {
+    "key": "dac_ability_dragon_knight_breathe_fire_lore",
+    "content": "ダヴィオン、お前の才能を理解しないやつらと一緒にいても宝の持ち腐れだ。",
+    "author": "才能を盗み取ろうとするホブゲン"
+  },
+  {
+    "key": "dac_ability_dragon_knight_elder_dragon_form_lore",
+    "content": "ケイデンがあなたのことを褒めていたけど、彼の称賛に値することを祈るわ。",
+    "author": "レン、ドラゴンホールドの友"
+  },
+  {
+    "key": "dac_ability_enchantress_natures_attendants_lore",
+    "content": "彼女はホワイトスパイアじゃ1日も持たないだろうね。たったの1日もだ。",
+    "author": "敵を甘く見るホブゲン"
+  },
+  {
+    "key": "dac_ability_bounty_hunter_shuriken_toss_lore",
+    "content": "資金がある間は、金で忠誠を売る男をいつも信頼するべき。",
+    "author": "疑わしい知恵を披露するオニア"
+  },
+  {
+    "key": "dac_ability_batrider_sticky_napalm_lore",
+    "content": "こいつは最高だ。最高だよ！",
+    "author": "ホブゲン、放火魔"
+  },
+  {
+    "key": "dac_ability_doom_bringer_doom_lore",
+    "content": "取引するなら比喩的な悪魔が相手の方がいい…",
+    "author": "アネシックスの仲間について意見を述べるオニア"
+  },
+  {
+    "key": "dac_ability_gyrocopter_call_down_lore",
+    "content": "あいつの助けがあればどれだけ多くの品を運べるか…考えてもみろよ。",
+    "author": "未来を思い描くジュル"
+  },
+  {
+    "key": "dac_ability_alchemist_acid_spray_lore",
+    "content": "あんたは人の顔を焼くのが好きなんだろ、俺は人の家を焼くのが好きなんだ。最強のコンビじゃないか。",
+    "author": "文化の違いを埋めるホブゲン"
+  },
+  {
+    "key": "dac_ability_lycan_wolf_spawn_shift_lore",
+    "content": "お願い、ライカン。復讐に手を貸して。",
+    "author": "ライカンの慈悲の心に語りかけるレン"
+  },
+  {
+    "key": "dac_ability_lone_druid_summon_bear_lore",
+    "content": "頼むからクマを近づけないでくれ…クマは苦手なんだ。",
+    "author": "グレック、クマ恐怖症"
+  },
+  {
+    "key": "dac_ability_chaos_knight_chaos_bolt_lore",
+    "content": "ホワイトスパイアに少々カオスが必要だな。",
+    "author": "ホブゲン、カオスをもたらす者"
+  },
+  {
+    "key": "dac_ability_ogre_magi_bloodlust_lore",
+    "content": "マギは請求額の2倍の価値がある。運よく、マギは愚か者でもある。",
+    "author": "オニア、特売品狙い"
+  },
+  {
+    "key": "dac_ability_magnataur_empower_lore",
+    "content": "アネシックスにエンノの仕事をやらせてみな。自分が死ぬほど踏みにじられることにすぐに気が付くだろうよ。",
+    "author": "稀な忍耐を見せるホブゲン"
+  },
+  {
+    "key": "dac_ability_treant_leech_seed_lore",
+    "content": "正直、エンノが木に助けてもらうなんて思いもしなかったぜ。",
+    "author": "酒を酌み交わすジュルとアネシックス"
+  },
+  {
+    "key": "dac_ability_keeper_of_the_light_illuminate_lore",
+    "content": "守護者は見かけよりずっと強力だ。放っておけば私たち全員に破滅をもたらすだろう。",
+    "author": "トゥラス、光の破壊者"
+  },
+  {
+    "key": "dac_ability_medusa_stone_gaze_lore",
+    "content": "好みのタイプだが、俺にはミレスカしかいないんでね。",
+    "author": "ホブゲン、恋する犯罪者"
+  },
+  {
+    "key": "dac_ability_medusa_split_shot_lore",
+    "content": "あのレディが矢を射るところを見たかい？あんたがまだそうやって息をしてるってことは、おそらくまだだな。",
+    "author": "最近雇ったヒーローについて自慢げに語るグレック"
+  },
+  {
+    "key": "dac_ability_troll_warlord_fervor_lore",
+    "content": "効率的で容赦ない。私と同じだ。",
+    "author": "無駄な努力はしないクワイエット"
+  },
+  {
+    "key": "dac_ability_shadow_demon_demonic_purge_lore",
+    "content": "毛皮のろくでなしよ、聞いてくれ。アネシックスと組めると思ってるようだが、彼女に仲間がいるところを見たことがあるかい？",
+    "author": "悪魔とエンノのファンではないホブゲン"
+  },
+  {
+    "key": "dac_ability_sven_cleave_lore",
+    "content": "ヴィジルの騎士の仕事を見たことがあるかい？そりゃ見事なものだ。",
+    "author": "グレック、戦闘の目利き"
+  },
+  {
+    "key": "dac_ability_sven_gods_strength_lore",
+    "content": "復讐に燃える男ほど愛しい者はない。",
+    "author": "スヴェンを評価するアネシックス"
+  },
+  {
+    "key": "dac_ability_timbersaw_whirling_death_lore",
+    "content": "エンノが森の仲間を全員呼び集めてるだろうと思ってね…俺も俺なりの行動に出たわけさ。",
+    "author": "問題を解決するホブゲン"
+  },
+  {
+    "key": "dac_ability_tusk_walrus_punch_lore",
+    "content": "あいつとは仲間だったこともあった。俺を助けに来たのか、ぶちのめしに来たのか…すぐにわかるだろう。",
+    "author": "若いころに思いを馳せるジュル"
+  },
+  {
+    "key": "dac_ability_abaddon_aphotic_shield_lore",
+    "content": "アヴァーナス家のことは尊敬してるわ。",
+    "author": "取り入ろうとするオニア"
+  },
+  {
+    "key": "dac_ability_terrorblade_metamorph_lore",
+    "content": "あいつがアネシックスと話しているのを見たら、マズいことが起ころうとしてるってのがわかる。",
+    "author": "人間観察者、ジュル"
+  },
+  {
+    "key": "dac_ability_techies_bomb_lore",
+    "content": "あんたが何と言おうと、キーンは面白いやつらだよ。",
+    "author": "破壊工作を見守るホブゲン"
+  },
+  {
+    "key": "dac_ability_disruptor_static_storm_lore",
+    "content": "彼が私を助けるためにここにいるのか、アックスを見張っていたいだけなのかよくわからない。",
+    "author": "レン、寄せ集め集団のキャプテン"
+  },
+  {
+    "key": "dac_ability_omniknight_purification_lore",
+    "content": "彼は信仰を武器のように振りかざす…私と同じように。",
+    "author": "トゥラス、妄想にとりつかれた救い主"
+  },
+  {
+    "key": "dac_ability_pudge_meathook_lore",
+    "content": "パッジ？あぁ、いいヤツだよ。俺が死体の皮をなめしている時、いつも声をかけてくれる。",
+    "author": "カール、アンデッドの仕立屋"
+  },
+  {
+    "key": "dac_ability_warlock_shadow_word_lore",
+    "content": "守られるべき秘密というものがある…デムノックは分別のなさの代償を払うことになるだろう。",
+    "author": "チャンスを伺うアネシックス"
+  },
+  {
+    "key": "dac_ability_bloodseeker_blood_rage_lore",
+    "content": "この商売から学んだことがあるとすれば…人は血を見るのが好きだってことだ。この男を雇え。",
+    "author": "グレック、決断力ある興行主"
+  },
+  {
+    "key": "dac_ability_arc_warden_tempest_double_lore",
+    "content": "彼は創造の神秘をもたらす。",
+    "author": "トゥラス、謎めいた預言者"
+  },
+  {
+    "key": "dac_ability_mirana_arrow_lore",
+    "content": "狂信者レンのことは絶対に信頼するな…その価値はない。",
+    "author": "親身な忠告を与えるジュル"
+  },
+  {
+    "key": "dac_ability_slark_essence_shift_lore",
+    "content": "スラークは俺らの製品の運び屋としてダークリーフに欠かせない。",
+    "author": "ジュル、 自力で出世した男"
+  },
+  {
+    "key": "dac_ability_slark_pounce_lore",
+    "content": "またしても奴に出し抜かれたのか？",
+    "author": "頭に血の上ったホブゲン"
+  },
+  {
+    "key": "dac_ability_faceless_void_chronocube_lore",
+    "content": "クラスズレームが干渉してくる。こいつは厄介だ。",
+    "author": "時間を止められないことに気付いたジュル"
+  },
+  {
+    "key": "dac_ability_faceless_void_time_walk_lore",
+    "content": "そのくだらない砂時計には触らないからな。ピアポイントにこの辺りを詮索されたいとでも言うのか？",
+    "author": "思慮深い狂人、ホブゲン"
+  },
+  {
+    "key": "dac_ability_legion_commander_duel_lore",
+    "content": "そう構える必要はない、トレスディン。リックスは私が見つける。",
+    "author": "プレッシャーに強いアネシックス"
+  },
+  {
+    "key": "dac_ability_legion_commander_will_of_the_bullsnake_lore",
+    "content": "コマンダー、あなたのようなタイプが最も危険なのよ。信奉者がね。",
+    "author": "世界の生徒、レン"
+  },
+  {
+    "key": "dac_ability_nyx_assassin_spiked_carapace_lore",
+    "content": "正しくは節足動物だ。",
+    "author": "細部まで目を光らせるクワイエット"
+  },
+  {
+    "key": "dac_ability_nyx_assassin_vendetta_lore",
+    "content": "昆虫。節足動物。どっちでも同じだ。とにかく彼に今すぐ殺してもらいたい奴がいる。彼を捕えることができるのか？",
+    "author": "正されることが嫌いなオニア"
+  },
+  {
+    "key": "dac_ability_weaver_shukuchi_lore",
+    "content": "ウィーバーよ。ともに世界を作り直そう。",
+    "author": "本気でやる気の狂ったトゥラス"
+  },
+  {
+    "key": "dac_ability_broodmother_spin_web_lore",
+    "content": "お前の子供たちに絹を紡いでもらおうかな。間違いなくクモは児童労働法の適用外だからな。",
+    "author": "カール、倫理的な仕立屋"
+  },
+  {
+    "key": "dac_ability_wisp_tether_lore",
+    "content": "アイオーを熱心に見つめるエンノ"
+  },
+  {
+    "key": "dac_ability_wisp_relocate_lore",
+    "content": "見つめ返すアイオー"
+  },
+  {
+    "key": "dac_ability_bristleback_quill_spray_lore",
+    "content": "はっきりさせておこう。今夜、お前とタスクに俺のバーを滅茶苦茶にはさせない。",
+    "author": "やり手のジュル"
+  },
+  {
+    "key": "dac_ability_life_stealer_feast_lore",
+    "content": "俺の状態を見て、ライフスティーラーの居場所が俺にすぐわかると思われても迷惑なだけだ。",
+    "author": "よく判断ミスをするカール"
+  },
+  {
+    "key": "dac_ability_dazzle_shadow_wave_lore",
+    "content": "お前のサービスを受けるにはいくら必要だ？私は死なないことに強い関心がある。",
+    "author": "暗闇で刺すオニア"
+  }
+]

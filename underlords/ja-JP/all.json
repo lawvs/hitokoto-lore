@@ -1,0 +1,524 @@
+[
+  {
+    "key": "dac_unit_neutral_melee_lore",
+    "content": "正直なところ、こいつらが自主的なのか洗脳されているのかわからないが、彼らは安い賃金で戦う。俺にはそれで十分だ。",
+    "author": "グレック、ケチな格闘興行主"
+  },
+  {
+    "key": "dac_unit_neutral_ranged_lore",
+    "content": "プレレックスの信者の中には光る石のために命を落とすなんて御免だが、現ナマのためなら命をかけてもいいと思っているやつらがいるはずだ。",
+    "author": "グレック、剣闘士スカウト"
+  },
+  {
+    "key": "dac_unit_neutral_melee_mega_lore",
+    "content": "このでっかいヤツは大した夢の持ち主だよ。どうせ夢がかなう前に死んじまうだろうが、その信念には脱帽するよ。",
+    "author": "グレック、悪徳エージェント"
+  },
+  {
+    "key": "dac_unit_neutral_golem_a_lore",
+    "content": "こちらにご覧に入れますのが…どえらくでかい石の塊だ。",
+    "author": "グレック、緻密な分析家"
+  },
+  {
+    "key": "dac_unit_neutral_golem_b_lore",
+    "content": "こちらにご覧に入れますのは…迫力にはかけるが、危険なことに変わりない石の塊だ。",
+    "author": "グレック、アマチュア地質学者"
+  },
+  {
+    "key": "dac_unit_neutral_wolf_big_lore",
+    "content": "特に言う事はない。彼らは狼だ。",
+    "author": "グレック、動物を愛する者"
+  },
+  {
+    "key": "dac_unit_neutral_wolf_small_lore",
+    "content": "本当にかわいいやつらだぜ…顔を噛みちぎられそうになるまではね。",
+    "author": "愛情表現豊かなグレック"
+  },
+  {
+    "key": "dac_unit_neutral_bear_a_lore",
+    "content": "人にはこいつがクワーティアスを噛み殺したヘルベアだって言ってるのさ。",
+    "author": "グレック、生粋の誇張屋"
+  },
+  {
+    "key": "dac_unit_neutral_bear_b_lore",
+    "content": "あいつらは兄弟だったはずだ。いや、姉妹か？夫婦か？とにかくそういう関係だ。",
+    "author": "細部重視のグレック"
+  },
+  {
+    "key": "dac_unit_neutral_vulture_a_lore",
+    "content": "昔、ワイルドウィングがアリーナから飛んで逃げないように翼を切ろうとしたんだが、あいつらときたら、翼を切りに行った作業員を片っ端から食べちまってな。でも、簡単に餌にありつけることがわかって、逃げなくなったよ。",
+    "author": "グレック、レモネードメーカー"
+  },
+  {
+    "key": "dac_unit_neutral_vulture_b_lore",
+    "content": "こいつらがいると賠償責任が高くつくが、群衆は熱狂する。",
+    "author": "グレック、格闘興行主"
+  },
+  {
+    "key": "dac_unit_neutral_thunder_lizard_big_lore",
+    "content": "ケンタウロスはこの厄介者を相手に面白半分にレスリングするのが好きだ。ケンタウロスってのは愚かな生き物なんだ。",
+    "author": "ありのままを口に出すグレック"
+  },
+  {
+    "key": "dac_unit_neutral_thunder_lizard_small_lore",
+    "content": "この商売についてひとつ確かなのは…子供たちは巨大なトカゲが剣闘士を踏み潰すのを見ると大喜びするってことだ。",
+    "author": "金になるものには目ざといグレック"
+  },
+  {
+    "key": "dac_unit_neutral_black_dragon_lore",
+    "content": "俺がこいつをどこで手に入れたかを話し合うつもりはない。",
+    "author": "グレック、ドラゴン密輸業者"
+  },
+  {
+    "key": "dac_unit_neutral_troll_dark_a_lore",
+    "content": "賢者の一言：こいつらと酒飲み競争はするな。",
+    "author": "身をもって学んだ知恵を共有するグレック"
+  },
+  {
+    "key": "dac_unit_neutral_troll_dark_b_lore",
+    "content": "ぶっちゃけ、この男にはまったくビビったよ。",
+    "author": "できる者とは適切な距離を置くことについて語るグレック"
+  },
+  {
+    "key": "dac_unit_neutral_troll_dark_frost_lore",
+    "content": "ダークトロールの僧侶たち全員がジャムイの後についてウィーピングローズへ行ったわけではない。ここで新しい人生を始めたいと思う僧侶たちもいた。",
+    "author": "グレック、歴史通"
+  },
+  {
+    "key": "dac_unit_neutral_nian_lore",
+    "content": "紳士、淑女のみなさん、野生の、比類なき、荒くれ獣、イヤービーストをご紹介します！",
+    "author": "場を盛り上げるグレック"
+  },
+  {
+    "key": "dac_unit_neutral_roshan_lore",
+    "content": "彼らはイージスの闘志ほど強くはない。",
+    "author": "グレック、戦いを煽る者"
+  },
+  {
+    "key": "dac_unit_anessix_goleme_lore",
+    "content": "生き抜こうとしている一人の大男さ。",
+    "author": "冷静に分析するグレック"
+  },
+  {
+    "key": "dac_item_claymore_lore",
+    "content": "私から何を聞きたいのだ？見ての通りの剣だ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_brooch_lore",
+    "content": "喧嘩を売ろうとうずうずしている者にぴったりのアイテムだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_mana_sponge_lore",
+    "content": "最高の英雄行為は、どん底まで落ちたときに発揮されるものだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_quelling_blade_lore",
+    "content": "グレックは誰かがこれを買うと嫌な顔をする。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_boots_of_speed_lore",
+    "content": "忙しい怠け者にぴったりだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_tranquil_boots_lore",
+    "content": "私に売りつけたスピードブーツはゴミ同然だった。もっと速く動けるものをくれ",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_octarine_fragment_lore",
+    "content": "これはオクタリンコアの能力のほんの一部でしかない。",
+    "author": "ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_vitality_booster_lore",
+    "content": "これは形勢を変えるためのものではない。危機を乗り越えるために使うものだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_cloak_lore",
+    "content": "気を付けろ…嵐が来るぞ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_blink_dagger_lore",
+    "content": "オグローディのやつ、ブリンクアックスはないかと何度も聞きに来る。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_mask_of_madness_lore",
+    "content": "狂気と天才の境目がどこにあるのかは誰にもわからない。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_blade_mail_lore",
+    "content": "毎年3人ほどの客が、これを装着してみたいという人の犠牲になっている。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_battle_fury_lore",
+    "content": "こういう戦いが1対1のまま続くなんてことはあり得ない。いざって時のために備えておいた方がいい。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_dagon_lore",
+    "content": "倒れた者を蹴るなという人々もいるが…そういうやつはホワイトスパイアでは1週間と持たないだろう。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_sacred_relic_lore",
+    "content": "神の破片を手にすることができるのだ。このくらいの値段は妥当だと思うが。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_maelstrom_lore",
+    "content": "誰にも天候を変えることはできないが…ちょっと小突いてやることならできる。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_refresher_orb_lore",
+    "content": "これのおかげで勝敗が変わった戦いを多く見てきた。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_heart_of_tarrasque_lore",
+    "content": "死は弱い者たちのためにある。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_divine_rapier_lore",
+    "content": "時として神は血を要求することがある。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_assault_cuirass_lore",
+    "content": "戦いに突撃するつもりなら、うまくやれ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_black_king_bar_lore",
+    "content": "敵の要求には一切応えるな。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_mekansm_lore",
+    "content": "仕組みなど、余計なことは聞くな。効果に感謝するだけでいい。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_arcane_boots_lore",
+    "content": "味方の役に立とう。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_daedalus_lore",
+    "content": "ローリン・ラサンはこれを何度か借りに来た。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_radiance_lore",
+    "content": "ほぅ、ホブゲンと同じ感性の持ち主のようだな...",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_skadi_lore",
+    "content": "これをどうやって手に入れたかは知らない方が身のためだ…",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_chainmail_lore",
+    "content": "実用的で、信頼できる。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_gloves_of_haste_lore",
+    "content": "攻撃の雨が敵に降り注ぐ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_moon_shard_lore",
+    "content": "一部では狂気の月のシャードだと言われている…",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_blight_stone_lore",
+    "content": "些細に思えるが効果的な道具だ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_shivas_guard_lore",
+    "content": "これがどうやってサファイアコンクラーベの金庫から持ち出されたのかは聞かないでくれ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_bloodthorn_lore",
+    "content": "この剣を振り回したって人気者になるわけじゃないが、敵を殺すのに効果があるのは確かだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_hood_of_defiance_lore",
+    "content": "敵を前に堂々と立ち向かうのだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_vanguard_lore",
+    "content": "自分の身を守りたいなら、これが最善の手だ。",
+    "author": "ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_basher_lore",
+    "content": "気絶した敵は、まもなく死んだ敵になる。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_pipe_of_insight_lore",
+    "content": "ティンカーはどこであんなクレイジーなアイデアを得たと思う？",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_bloodbound_hat_lore",
+    "content": "大きくなるのはリタの専売特許じゃない。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_sheepstick_lore",
+    "content": "シャーマンのやつらは、この手のものには目がないんだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_force_staff_lore",
+    "content": "アグニムはもっとスゴイらしいが、まだ見たことはない。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_never_die_hat_lore",
+    "content": "命を救ってくれるわけじゃないが、敵を道連れにしてくれるかもしれない。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_gold_on_last_hit_hat_lore",
+    "content": "こいつを身につけたまま死んだケンタウロスより、お前の運がいいことを祈ってるよ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_final_flash_hat_lore",
+    "content": "追い詰められた時に初めて自分の本当の力を知ることになる。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_hype_breaker_lore",
+    "content": "ベールの修道女になることに興味はあるが、赤ん坊の時に誘拐されたくない人のために。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_hype_harvester_lore",
+    "content": "フロンゼルの時も、イーブママの時も、このドラが鳴り響いた。お前のためにこれが鳴らないことを祈ろう。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_summoning_stone_lore",
+    "content": "怒涛のような肉の波で敵を溺れさせるがいい。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_better_units_in_shop_lore",
+    "content": "何人か、いいやつを紹介してやろう…",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_additional_unit_cap_in_shop_lore",
+    "content": "アドバイスを聞きたいって？正々堂々と戦うのはやめておけ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_cheaper_units_in_shop_lore",
+    "content": "誰にも言うな…あんたは俺の一番のお気に入りの犯罪首謀者だよ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_extra_damage_per_unit_lore",
+    "content": "勝ち負けだけじゃない。教訓を見せつけてやらなきゃならない時もある。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_free_first_reroll_lore",
+    "content": "自分が後押しできない仲間で妥協するな。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_humans_turn_undead_lore",
+    "content": "この町にいると、美徳なんてたたき消されるのさ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_elves_start_invisible_lore",
+    "content": "見えないものを刺すのは難しい。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_shamans_hex_attackers_lore",
+    "content": "この間、エンノを怒らせた男がどうなったか…あんたにも見せてやりたかったよ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_discount_rerolls_lore",
+    "content": "自分が後押しできない仲間で妥協するな。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_assassins_blind_on_landing_lore",
+    "content": "クワイエットはフェアな戦いはしない。勝つために戦う。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_extra_items_lore",
+    "content": "見せたいものがもう1つある…",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_better_items_lore",
+    "content": "あんたにピッタリなアイテムが奥にしまってあるんだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_bonus_damage_on_low_life_lore",
+    "content": "追い詰められた獣ほど危険なものはない。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_prevent_next_life_loss_lore",
+    "content": "時として必要なのはセカンドチャンスだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_mechs_explode_on_death_lore",
+    "content": "これだからキーンの発明品は信用できないんだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_trolls_have_aspd_aura_lore",
+    "content": "トロールの一群が襲ってきたら、対抗手段なんて皆無に近い。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_goblins_give_gold_on_last_hit_lore",
+    "content": "趣味が悪いなんて言わないでほしいね。死人が金を使えるわけでもなし…",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_orcs_get_extra_hp_lore",
+    "content": "グッドカインドに、アックスが殺した相手のリストがあるか聞いてみたことがあるんだが…バックパックはそのためにあるっていう答えだったね。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_demon_hunters_steal_demon_lore",
+    "content": "ホワイトスパイアでは一時的な同盟なんて日常茶飯事だ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_naga_skin_lore",
+    "content": "どんな行動にも結果が伴う。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_knights_absorption_lore",
+    "content": "自己犠牲と美徳の人生を送る人もいるが…俺はそういう人間じゃない。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_dragons_hoard_lore",
+    "content": "ドラゴンについてはよく知らないが、ドラゴンが秘密の財宝を持っているなら、それを手に入れるためにどれだけ多くの人間を食べたかを理解するくらいの知識はある。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_elementals_spawn_eidolons_lore",
+    "content": "ある者にとっては、死はほんの始まりに過ぎない…",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_hunters_band_lore",
+    "content": "ケンタウロスの狩人達がサンダーハイドを易々と倒すのを見たことがある。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_humans_debuff_resist_lore",
+    "content": "あぁ、これこそ人間の精神だ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_druids_heal_over_time_on_death_lore",
+    "content": "時として死に慰めを見出せることもある。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_beast_bleed_lore",
+    "content": "うっ、ひどい傷だな…",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_warriors_never_die_lore",
+    "content": "もっとも頑強な戦士を阻止するには死でさえ十分ではない。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_warlocks_spell_lifesteal_lore",
+    "content": "嘘を言うつもりはない…これは少し変わってるぞ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_undeads_stop_healing_lore",
+    "content": "他人を苦しませるのを心から楽しむ輩もいる。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_lower_healing_lore",
+    "content": "ローズリーフの戦いに対するヴールの反応は鈍かった。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_mages_ghost_on_low_health_lore",
+    "content": "メイジは常に奥の手を用意しているものだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_healing_ward_lore",
+    "content": "そいつは与え続けるギフトだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_barricade_lore",
+    "content": "隠れ場所が見つからない時には、自分で持って行くんだ。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_tombstone_lore",
+    "content": "ついに死体の使い道が見つかった。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_item_target_dummy_lore",
+    "content": "悲しいことに、この藁の袋よりもひどい戦友がいた。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_challenge_map_challenge_100_lore",
+    "content": "この通りを行く時は頭上注意だ。3階に住んでいる私の大叔母、マムは道行く者たちの上に尿瓶の中身を撒く癖がある。",
+    "author": "ゼノク、ホワイトスパイアの闇商人"
+  },
+  {
+    "key": "dac_map_challenge_combine_2stars_lore",
+    "content": "無数の蛇がうごめく堀に落ちるよりはマシだ。"
+  },
+  {
+    "key": "dac_challenge_map_tutorial_1_lore",
+    "content": "最低な人間として広く知られている。"
+  },
+  {
+    "key": "dac_challenge_play_as_underlord_lore",
+    "content": "殺人者になることが要求される。"
+  }
+]

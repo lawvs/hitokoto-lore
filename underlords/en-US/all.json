@@ -1,0 +1,525 @@
+[
+  {
+    "key": "dac_unit_neutral_melee_lore",
+    "content": "Look I'll be honest, I can't tell if these guys are autonomous or brainwashed, but they fight for cheap and that's good enough for me.",
+    "author": "Grek, Economical Fight Promoter"
+  },
+  {
+    "key": "dac_unit_neutral_ranged_lore",
+    "content": "Not all of Prellex's disciples were interested in dying for a glowing rock.  Some of them wanted to die for cold hard cash.",
+    "author": "Grek, Gladiatorial Recruiter"
+  },
+  {
+    "key": "dac_unit_neutral_melee_mega_lore",
+    "content": "Now this big boy has a dream.  He'll probably die before he reaches that dream, but ya gotta admire the conviction.",
+    "author": "Grek, Crooked Booker"
+  },
+  {
+    "key": "dac_unit_neutral_golem_a_lore",
+    "content": "Now that my friend, is one big hunk of rock.",
+    "author": "Grek, Critical Analyst"
+  },
+  {
+    "key": "dac_unit_neutral_golem_b_lore",
+    "content": "Now that my friend, is a smaller, but still dangerous hunk of rock.",
+    "author": "Grek, Amateur Geologist"
+  },
+  {
+    "key": "dac_unit_neutral_wolf_big_lore",
+    "content": "Not much to say here.  They're wolves.",
+    "author": "Grek, Animal Lover"
+  },
+  {
+    "key": "dac_unit_neutral_wolf_small_lore",
+    "content": "They look so cute until they're rippin' your face off.",
+    "author": "Grek, Nurturing to a Fault"
+  },
+  {
+    "key": "dac_unit_neutral_bear_a_lore",
+    "content": "I like to tell people that these are the hellbears that mauled Kwerthias.",
+    "author": "Grek, Professional Embellisher"
+  },
+  {
+    "key": "dac_unit_neutral_bear_b_lore",
+    "content": "I think they're brothers, or sisters, or married, or something like that.",
+    "author": "Grek, Detail Oriented"
+  },
+  {
+    "key": "dac_unit_neutral_vulture_a_lore",
+    "content": "I used to try to clip their wings so they couldn't fly out of the arena, but the wildwings kept eating everyone I sent to handle them.  Fortunately they got used to the easy food so now they stick around on their own.",
+    "author": "Grek, Lemonade Maker"
+  },
+  {
+    "key": "dac_unit_neutral_vulture_b_lore",
+    "content": "These guys are walking liability machines, but the crowd loves 'em.",
+    "author": "In which Grek gives the people what they want"
+  },
+  {
+    "key": "dac_unit_neutral_thunder_lizard_big_lore",
+    "content": "Centaurs like to wrestle these bad boys for fun. Centaurs are also really stupid.",
+    "author": "In which Grek calls it like he sees it"
+  },
+  {
+    "key": "dac_unit_neutral_thunder_lizard_small_lore",
+    "content": "If there's one thing I know about the business, it's this: kids love watching giant lizards crush gladiators.",
+    "author": "Grek, Eye For The Business"
+  },
+  {
+    "key": "dac_unit_neutral_black_dragon_lore",
+    "content": "We don't talk about where I got this thing.",
+    "author": "Grek, Dragon Smuggler"
+  },
+  {
+    "key": "dac_unit_neutral_troll_dark_a_lore",
+    "content": "Word to the wise: don't get in a drinking contest with these guys.",
+    "author": "In which Grek shares some hard earned wisdom"
+  },
+  {
+    "key": "dac_unit_neutral_troll_dark_b_lore",
+    "content": "Look, I'm not gonna lie, this guy scares the hell outta me.",
+    "author": "In which Grek talks about keeping a healthy distance from the talent"
+  },
+  {
+    "key": "dac_unit_neutral_troll_dark_frost_lore",
+    "content": "Not all the Dark Troll priests followed J'Muy to Weeping Rose... some wanted to start a new life here.",
+    "author": "Grek, History Buff"
+  },
+  {
+    "key": "dac_unit_neutral_nian_lore",
+    "content": "Ladies and Gentlemen, I give to you the untamed.  The unmatched.  The unbroken.  The Year Beast!",
+    "author": "In which Grek works the crowd"
+  },
+  {
+    "key": "dac_unit_neutral_roshan_lore",
+    "content": "They don't make 'em tougher than the Champion of the Aegis.",
+    "author": "Grek, Fight Promoter"
+  },
+  {
+    "key": "dac_unit_anessix_goleme_lore",
+    "content": "It's just a big guy trying to get by.",
+    "author": "Grek, Critical Analyst"
+  },
+  {
+    "key": "dac_item_claymore_lore",
+    "content": "What do ya want me to say, it's a sword.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_brooch_lore",
+    "content": "The perfect item for someone looking to pick a fight.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_mana_sponge_lore",
+    "content": "The greatest acts of heroism come when you're at your lowest.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_quelling_blade_lore",
+    "content": "Grek hates it when people buy these.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_boots_of_speed_lore",
+    "content": "Perfect for the ne're",
+    "author": "do"
+  },
+  {
+    "key": "dac_item_tranquil_boots_lore",
+    "content": "Those Boots of Speed you sold me were next to worthless. Give me something better to move.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_octarine_fragment_lore",
+    "content": "This is but a taste of what the Octarine Core can do.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_vitality_booster_lore",
+    "content": "It isn't about turning the tide, it's about weathering the storm.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_cloak_lore",
+    "content": "Be careful out there, a storm is coming...",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_blink_dagger_lore",
+    "content": "That Oglodi keeps asking for a blink axe...",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_mask_of_madness_lore",
+    "content": "Who's to say where madness ends and genius begins...",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_blade_mail_lore",
+    "content": "I lose about 3 customers a year to people who ask to try this on...",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_battle_fury_lore",
+    "content": "We know these things never stay one on one... it's best to be prepared.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_dagon_lore",
+    "content": "Some people say it's wrong to kick a man when he's down... those people wouldn't last a week in White Spire.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_sacred_relic_lore",
+    "content": "I think I'm charging a reasonable price for you to hold a small piece of divinity.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_maelstrom_lore",
+    "content": "No one can control the weather... but you can certainly give it a little nudge.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_refresher_orb_lore",
+    "content": "I've seen this change the outcome of many a battle.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_heart_of_tarrasque_lore",
+    "content": "Death is for the lesser.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_divine_rapier_lore",
+    "content": "Sometimes the Gods demand blood.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_assault_cuirass_lore",
+    "content": "If you're going to charge into battle, be smart about it.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_black_king_bar_lore",
+    "content": "Deny your enemies everything.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_mekansm_lore",
+    "content": "Don't question how it works, just be grateful that it does",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_arcane_boots_lore",
+    "content": "Be a boon to your allies.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_daedalus_lore",
+    "content": "Lorlin Lasan has borrowed this weapon on more than one occasion.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_radiance_lore",
+    "content": "Ahhh I see you share Hobgen's sensibilities...",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_skadi_lore",
+    "content": "You don't want to know how I came into possession of this...",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_chainmail_lore",
+    "content": "It's practical and reliable.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_gloves_of_haste_lore",
+    "content": "If you're looking to beat someone down fast, these are the gloves for you.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_moon_shard_lore",
+    "content": "Some claim it's a shard of the Mad Moon itself...",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_blight_stone_lore",
+    "content": "A subtle, but effective tool.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_shivas_guard_lore",
+    "content": "Don't ask how this came out of the Sapphire Conclave's vault",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_bloodthorn_lore",
+    "content": "Wielding this blade doesn't make you popular, but it sure makes your enemies dead.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_hood_of_defiance_lore",
+    "content": "Stand tall in the face of your enemies.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_vanguard_lore",
+    "content": "If you're looking to protect yourself you can't do much better.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_basher_lore",
+    "content": "A concussed enemy is a soon to be dead enemy.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_pipe_of_insight_lore",
+    "content": "Where do you think Tinker gets his crazy ideas from?",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_bloodbound_hat_lore",
+    "content": "Rita ain't got a monopoly on making things grow.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_sheepstick_lore",
+    "content": "Shamans can't get enough of this thing, I'm tellin' ya.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_force_staff_lore",
+    "content": "They say Aghanim has a fancier staff, but I’ve never seen it.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_never_die_hat_lore",
+    "content": "It won't save your life, but it'll help you take someone with you.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_gold_on_last_hit_hat_lore",
+    "content": "May it grant you better luck than it did the centaur whose corpse I found it on.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_final_flash_hat_lore",
+    "content": "You don't find out what you're capable of until your back's against the wall.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_hype_breaker_lore",
+    "content": "For those who want to know what it's like to be a Sister of the Veil but don't want to be abducted as a baby.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_hype_harvester_lore",
+    "content": "We rang it for Fronzell.  We rang it for Momma Eeb.  Pray that it never rings for you.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_summoning_stone_lore",
+    "content": "Drown your enemies in an unyielding tide of flesh.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_better_units_in_shop_lore",
+    "content": "I can introduce you to some people...",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_additional_unit_cap_in_shop_lore",
+    "content": "My advice?  Don't fight fair.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_cheaper_units_in_shop_lore",
+    "content": "Don't tell anyone, but you're my favorite criminal mastermind.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_extra_damage_per_unit_lore",
+    "content": "Sometimes it's not just about winning, you need to send a message.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_free_first_reroll_lore",
+    "content": "Don't settle for a crew you don't stand behind.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_humans_turn_undead_lore",
+    "content": "This town has a way of beating the good out of you.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_elves_start_invisible_lore",
+    "content": "It's hard to stab what you can't see.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_shamans_hex_attackers_lore",
+    "content": "You should have seen what happened to the last guy who crossed Enno.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_discount_rerolls_lore",
+    "content": "Don't settle for a crew you don't stand behind.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_assassins_blind_on_landing_lore",
+    "content": "Quiet doesn't fight fair, she fights to win.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_extra_items_lore",
+    "content": "Let me show you one more thing...",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_better_items_lore",
+    "content": "The stuff you REALLY want is in the back.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_bonus_damage_on_low_life_lore",
+    "content": "There's nothing more dangerous than a cornered animal.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_prevent_next_life_loss_lore",
+    "content": "Sometimes all you need is a second chance.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_mechs_explode_on_death_lore",
+    "content": "This is why I don't trust Keen merchandise.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_trolls_have_aspd_aura_lore",
+    "content": "When a pack of Trolls decide they wanna beat you down there's not a whole helluva lot you can do about it.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_goblins_give_gold_on_last_hit_lore",
+    "content": "I wouldn't call it distasteful, it's not like the dead can spend coin.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_orcs_get_extra_hp_lore",
+    "content": "I once asked Goodkind if she kept a list of all the people Axe has killed... she told me that's what the backpack was for.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_demon_hunters_steal_demon_lore",
+    "content": "In White Spire, temporary alliances are forged daily.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_naga_skin_lore",
+    "content": "Actions have consequences.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_knights_absorption_lore",
+    "content": "Some people live a life of self",
+    "author": "sacrifice and nobility... I am not one of those people."
+  },
+  {
+    "key": "dac_item_dragons_hoard_lore",
+    "content": "I don't know much about Dragons, but I know enough to realize that if a Dragon has a treasure horde, it probably means they ate a lot of people to get it.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_elementals_spawn_eidolons_lore",
+    "content": "For some, death is only the beginning...",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_hunters_band_lore",
+    "content": "I've seen a pack of Centaur hunters bring down a Thunderhide with ease.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_humans_debuff_resist_lore",
+    "content": "Ahhh there's that famous human spirit.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_druids_heal_over_time_on_death_lore",
+    "content": "Sometimes, solace can be found in death.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_beast_bleed_lore",
+    "content": "Those wounds don't look too pretty, buddy.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_warriors_never_die_lore",
+    "content": "Not even death is enough to stop the most stalwart of warriors.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_warlocks_spell_lifesteal_lore",
+    "content": "Not gonna lie, this one's a little weird.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_undeads_stop_healing_lore",
+    "content": "Some people just enjoy making others suffer.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_lower_healing_lore",
+    "content": "The Vhoul reacted to the war in Roseleaf poorly.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_mages_ghost_on_low_health_lore",
+    "content": "Mages always have one last trick up their sleeve.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_healing_ward_lore",
+    "content": "It’s the gift that keeps on giving.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_barricade_lore",
+    "content": "When you can’t find cover, bring it with you.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_tombstone_lore",
+    "content": "Finally, something to do with all these corpses.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_item_target_dummy_lore",
+    "content": "Sadly, I’ve had worse fighting companions than this sack of straw.",
+    "author": "Zenok, White Spire Fence"
+  },
+  {
+    "key": "dac_challenge_map_challenge_100_lore",
+    "content": "Watch your head on this road",
+    "author": "my great aunt Mam lives on the third floor, and she has a habit of emptying her chamber pot on passerby."
+  },
+  {
+    "key": "dac_map_challenge_combine_2stars_lore",
+    "content": "Better than falling into a snake",
+    "author": "filled moat."
+  },
+  {
+    "key": "dac_challenge_map_tutorial_1_lore",
+    "content": "You're widely known as a terrible person."
+  },
+  {
+    "key": "dac_challenge_play_as_underlord_lore",
+    "content": "You've got to be a killer."
+  }
+]

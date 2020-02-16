@@ -1,0 +1,440 @@
+[
+  {
+    "key": "dac_ability_antimage_mana_break_lore",
+    "content": "The Anti",
+    "author": "Mage has come for me... and I will be ready."
+  },
+  {
+    "key": "dac_ability_queenofpain_scream_of_pain_lore",
+    "content": "Akasha may not be a close friend, but she'll gladly help me out if she thinks she can lord it over me later.",
+    "author": "Anessix, Pragmatic Demon"
+  },
+  {
+    "key": "dac_ability_lina_laguna_blade_lore",
+    "content": "It wasn't a tough sell getting Lina to White Spire, we're both fans of each other's work.",
+    "author": "Hobgen, Professional Arsonist"
+  },
+  {
+    "key": "dac_ability_natures_prophet_summon_tree_lore",
+    "content": "Enno has reached out to his little forest friends... this could be a problem.",
+    "author": "O'nia, Banished Merchant of Revtel"
+  },
+  {
+    "key": "dac_ability_natures_prophet_wrath_of_nature_lore",
+    "content": "The reality is that my purpose is redundant. You don't need a weapon to kill a man, all you need is the patience to let nature take its course.",
+    "author": "Quiet, Calculating Clockwork"
+  },
+  {
+    "key": "dac_ability_windrunner_powershot_lore",
+    "content": "I made a lot of friends during my travels, and I'm not afraid to call in favors.",
+    "author": "Wren, World Traveller"
+  },
+  {
+    "key": "dac_ability_witch_doctor_paralyzing_cask_lore",
+    "content": "I love watching you work, Doc...",
+    "author": "Hobgen, Fae Mischief"
+  },
+  {
+    "key": "dac_ability_juggernaut_blade_fury_lore",
+    "content": "Yurnero isn't just a warrior.  He's a Juggernaut.  If we get him on our side, we'll be stacking bodies in no time.",
+    "author": "In which Grek looks at all the angles"
+  },
+  {
+    "key": "dac_ability_sandking_burrowstrike_lore",
+    "content": "A lot of work went into establishing our network of tunnels, we can't have The Sand King ruin what we built.",
+    "author": "Jull, Liquor Baron"
+  },
+  {
+    "key": "dac_ability_sandking_caustic_finale_lore",
+    "content": "Would it kill the guy to use a tarp?",
+    "author": "Anessix, Pristine Infernalist"
+  },
+  {
+    "key": "dac_ability_shadow_fiend_requiem_lore",
+    "content": "The Court of Ristul and I have an... understanding.",
+    "author": "Anessix, Earthbound Demon"
+  },
+  {
+    "key": "dac_ability_phantom_assassin_coup_de_grace_lore",
+    "content": "She assassinated Kwerthias, why shouldn't I assume she's come for me as well",
+    "author": "O'nia, Paranoid Merchant"
+  },
+  {
+    "key": "dac_ability_drow_ranger_trueshot_aura_lore",
+    "content": "Traxex.  You and me are gonna go to the top.  Trust me.",
+    "author": "Grek, Snake Oil Salesman"
+  },
+  {
+    "key": "dac_ability_morphling_waveform_lore",
+    "content": "Turath's ability to court favor with the likes of Morphling is...troubling.",
+    "author": "Quiet, Clockwork Conspirator"
+  },
+  {
+    "key": "dac_ability_axe_berserkers_call_lore",
+    "content": "Getting Axe's help is easy... all you need is beer and the promise of a good story he'll be able to tell.",
+    "author": "Wren, Rallying Rebel"
+  },
+  {
+    "key": "dac_ability_razor_plasma_field_lore",
+    "content": "If you think he's scary on the streets of White Spire, you should see what he does in the Narrow Maze.",
+    "author": "Anessix, Sports Fan"
+  },
+  {
+    "key": "dac_ability_crystal_maiden_brilliance_aura_lore",
+    "content": "Find out if she's here for me or Turath.",
+    "author": "Jull, Icewrack Bootlegger"
+  },
+  {
+    "key": "dac_ability_crystal_maiden_frostbite_lore",
+    "content": "There's a lot going on in White Spire, sometimes it's easy to miss things. For instance, The Crystal Maiden of Icewrack used to just help her fellow man, but evidently nowadays she's actually freezing people which was news to me.",
+    "author": "Carl, Last to Know"
+  },
+  {
+    "key": "dac_ability_kunkka_ghostship_lore",
+    "content": "Momma Eeb had a lot of friends... Kunkka wants answers as much as I do.",
+    "author": "Wren, Avenging Daughter"
+  },
+  {
+    "key": "dac_ability_tiny_toss_lore",
+    "content": "Looks like Enno found himself some muscle.",
+    "author": "In which Grek encounters a big problem"
+  },
+  {
+    "key": "dac_ability_puck_illusory_orb_lore",
+    "content": "Don't let the way he looks fool you, Puck is a right bastard.",
+    "author": "In which Hobgen gives some words of wisdom"
+  },
+  {
+    "key": "dac_ability_puck_phase_shift_lore",
+    "content": "That little bugger is never around when you need him.",
+    "author": "Hobgen, Impatient Underlord"
+  },
+  {
+    "key": "dac_ability_clockwerk_battery_assault_lore",
+    "content": "The Brass Herald would call you an abomination, but I think you're rather clever, little Keen.",
+    "author": "Quiet, Heretical Automaton"
+  },
+  {
+    "key": "dac_ability_lich_chain_frost_lore",
+    "content": "We can help each other Lich.",
+    "author": "In which Turath makes a Faustian deal"
+  },
+  {
+    "key": "dac_ability_tidehunter_ravage_lore",
+    "content": "Kunkka, I liked you more when you weren't being hunted by a Leviathan.",
+    "author": "Wren, Fair"
+  },
+  {
+    "key": "dac_ability_shadow_shaman_voodoo_lore",
+    "content": "Now that guy knows how to put on a show!",
+    "author": "In which Grek shows professional courtesy"
+  },
+  {
+    "key": "dac_ability_enigma_midnight_pulse_lore",
+    "content": "There are some things in this world that you cannot control.",
+    "author": "Turath, Mad Mage"
+  },
+  {
+    "key": "dac_ability_tinker_heat_seeking_missile_lore",
+    "content": "The Society of Likeminded Keenfolk will be a problem if they go unchecked.",
+    "author": "In which O'nia tries to form a unified front"
+  },
+  {
+    "key": "dac_ability_sniper_assassinate_lore",
+    "content": "Ya know I used to have a Keen act open my show.  Great for audiences, bad for liability insurance.",
+    "author": "Grek, Focused on the Bottom Line"
+  },
+  {
+    "key": "dac_ability_necrophos_death_pulse_lore",
+    "content": "Come now, Necrophos, there has to be something you want...",
+    "author": "Anessix, Silver Tongued Devil"
+  },
+  {
+    "key": "dac_ability_slardar_amplify_damage_lore",
+    "content": "Slark and I were able to do business, surely we can reach an agreement as well.",
+    "author": "Jull, Pruno Aficionado"
+  },
+  {
+    "key": "dac_ability_beastmaster_wild_axes_lore",
+    "content": "How many of these tree huggers are going to bat for that little runt?",
+    "author": "In which Grek complains about Enno"
+  },
+  {
+    "key": "dac_ability_venomancer_plague_ward_lore",
+    "content": "Your creations are beautiful to behold. Let me help you cultivate your garden...",
+    "author": "In which Turath learns that flattery gets you everywhere"
+  },
+  {
+    "key": "dac_ability_venomancer_venomous_gale_lore",
+    "content": "Nonono, we put that guy center stage and half the audience winds up dead, find someone else.",
+    "author": "In which Grek ponders a suitable replacement for Sun Wukong"
+  },
+  {
+    "key": "dac_ability_templar_assassin_refraction_lore",
+    "content": "If you help me, our debt is settled.",
+    "author": "In which Wren gets all the help she can get"
+  },
+  {
+    "key": "dac_ability_templar_assassin_meld_lore",
+    "content": "Your talents make you uniquely suited for what I have in mind.",
+    "author": "In which Anessix makes a job offer"
+  },
+  {
+    "key": "dac_ability_viper_viper_strike_lore",
+    "content": "We're not that different... I too, know what it means to be a slave.",
+    "author": "Quiet, Plotting Automoton"
+  },
+  {
+    "key": "dac_ability_viper_nethertoxin_lore",
+    "content": "Tread carefully Slark, trying to rob me won't end well for you",
+    "author": "In which O'nia reveals her hired muscle"
+  },
+  {
+    "key": "dac_ability_viper_corrosive_skin_lore",
+    "content": "I'd love to figure out a way to make a coat out of that one...",
+    "author": "Carl, Big Dreams"
+  },
+  {
+    "key": "dac_ability_luna_moon_glaive_lore",
+    "content": "I can't understand half of what you're sayin', but I like the way you throw those things.",
+    "author": "Grek, People Person"
+  },
+  {
+    "key": "dac_ability_dragon_knight_breathe_fire_lore",
+    "content": "Davion, your talents are being wasted on someone who doesn't appreciate the beauty of what you do.",
+    "author": "In which Hobgen tries to poach talent"
+  },
+  {
+    "key": "dac_ability_dragon_knight_elder_dragon_form_lore",
+    "content": "Kaden spoke highly of you, let's hope his praise was well earned.",
+    "author": "Wren, Friend to Dragon Hold"
+  },
+  {
+    "key": "dac_ability_enchantress_natures_attendants_lore",
+    "content": "She won't last a day in White Spire.  Not. A. Day.",
+    "author": "In which Hobgen underestimates his adversary"
+  },
+  {
+    "key": "dac_ability_bounty_hunter_shuriken_toss_lore",
+    "content": "So long as you have the money, always trust a man whose loyalty is for sale.",
+    "author": "O'nia, Questionable Wisdom"
+  },
+  {
+    "key": "dac_ability_batrider_sticky_napalm_lore",
+    "content": "I love this guy.  LOVE HIM.",
+    "author": "Hobgen, Pyromaniac"
+  },
+  {
+    "key": "dac_ability_doom_bringer_doom_lore",
+    "content": "I prefer to make my deals with metaphorical demons...",
+    "author": "In which O'nia opines on Anessix's allies"
+  },
+  {
+    "key": "dac_ability_gyrocopter_call_down_lore",
+    "content": "Think about how much product we could move with his help.",
+    "author": "In which Jull thinks about the bigger picture"
+  },
+  {
+    "key": "dac_ability_alchemist_acid_spray_lore",
+    "content": "You like burning people's faces, I like burning people's homes... it's a match made in heaven.",
+    "author": "In which Hobgen bridges a cultural gap"
+  },
+  {
+    "key": "dac_ability_lycan_wolf_spawn_shift_lore",
+    "content": "Please Lycan, help me get revenge.",
+    "author": "In which Wren appeals to Lycan's humanity"
+  },
+  {
+    "key": "dac_ability_lone_druid_summon_bear_lore",
+    "content": "Just keep the bear away from me, alright?  I don't do bears.",
+    "author": "Grek, Arkoudaphobic"
+  },
+  {
+    "key": "dac_ability_chaos_knight_chaos_bolt_lore",
+    "content": "White Spire could do well with a little chaos.",
+    "author": "Hobgen, Agent of Chaos"
+  },
+  {
+    "key": "dac_ability_ogre_magi_bloodlust_lore",
+    "content": "The Magi is worth twice what he charges.  Fortunately the Magi is also an idiot.",
+    "author": "O'nia, Bargain Hunter"
+  },
+  {
+    "key": "dac_ability_magnataur_empower_lore",
+    "content": "Let Anessix think she can play Enno, she'll figure out how wrong she is a few seconds before she's trampled to death.",
+    "author": "In which Hobgen shows a rare bit of patience"
+  },
+  {
+    "key": "dac_ability_treant_leech_seed_lore",
+    "content": "I won't lie, I didn't expect Enno to get help from a tree.",
+    "author": "In which Jull and Anessix share a drink"
+  },
+  {
+    "key": "dac_ability_keeper_of_the_light_illuminate_lore",
+    "content": "The Keeper is more powerful than he lets on, if left unchecked he'll be the end of us all.",
+    "author": "Turath, Destroyer of Light"
+  },
+  {
+    "key": "dac_ability_medusa_stone_gaze_lore",
+    "content": "She's my type of lady, but I only have eyes for Mireska.",
+    "author": "Hobgen, Love"
+  },
+  {
+    "key": "dac_ability_medusa_split_shot_lore",
+    "content": "Have you seen that lady shoot a bow?  I mean, you’re still breathing, so probably not...",
+    "author": "In which Grek talks up his latest hire"
+  },
+  {
+    "key": "dac_ability_troll_warlord_fervor_lore",
+    "content": "Efficent and Relentless.  Just like me.",
+    "author": "Quiet, No Wasted Effort"
+  },
+  {
+    "key": "dac_ability_shadow_demon_demonic_purge_lore",
+    "content": "Now listen here you furry bastard, I know you think you can work with Anessix but have you seen the people she cavorts with?",
+    "author": "Hobgen, No Fan of Demons (or Enno)"
+  },
+  {
+    "key": "dac_ability_sven_cleave_lore",
+    "content": "You ever see a Knight of the Vigil do their thing?  It's beautiful.",
+    "author": "Grek, Combat Connoisseur"
+  },
+  {
+    "key": "dac_ability_sven_gods_strength_lore",
+    "content": "There's nothing I love more than a man hellbent on revenge",
+    "author": "In which Anessix sizes up Sven"
+  },
+  {
+    "key": "dac_ability_timbersaw_whirling_death_lore",
+    "content": "I figured Enno was calling in all his woodland friends, so I went and made a call of my own.",
+    "author": "In which Hobgen engages in problem solving"
+  },
+  {
+    "key": "dac_ability_tusk_walrus_punch_lore",
+    "content": "He was my friend once.  We'll see if he's here to help me or punch me soon enough.",
+    "author": "In which Jull reflects on his youth"
+  },
+  {
+    "key": "dac_ability_abaddon_aphotic_shield_lore",
+    "content": "I have much respect for the House of Avernus.",
+    "author": "In which O'nia courts favor"
+  },
+  {
+    "key": "dac_ability_terrorblade_metamorph_lore",
+    "content": "When you see that one talking with Anessix, you know something bad is about to happen.",
+    "author": "Jull, People Watcher"
+  },
+  {
+    "key": "dac_ability_techies_bomb_lore",
+    "content": "Say what you will about the Keen, but they're always good for a laugh.",
+    "author": "In which Hobgen watches a demolitions display"
+  },
+  {
+    "key": "dac_ability_disruptor_static_storm_lore",
+    "content": "I'm not sure if he's actually here to help me, or if he just wants to keep an eye on Axe.",
+    "author": "Wren, Captain of a Motley Crew"
+  },
+  {
+    "key": "dac_ability_omniknight_purification_lore",
+    "content": "He wields faith as a weapon... as do I.",
+    "author": "Turath, Delusional Savior"
+  },
+  {
+    "key": "dac_ability_pudge_meathook_lore",
+    "content": "Pudge? Oh, he's just swell.  Always says hi when I'm tanning the bodies.",
+    "author": "Carl, Undead Tailor"
+  },
+  {
+    "key": "dac_ability_warlock_shadow_word_lore",
+    "content": "Some secrets are meant to be kept... Demnok will pay for his lack of discretion.",
+    "author": "Anessix, Biding Time"
+  },
+  {
+    "key": "dac_ability_bloodseeker_blood_rage_lore",
+    "content": "If I've learned one thing in my career, it's that folks love blood.  Hire this man.",
+    "author": "Grek, Decisive Promoter"
+  },
+  {
+    "key": "dac_ability_arc_warden_tempest_double_lore",
+    "content": "He brings with him the mysteries of creation.",
+    "author": "Turath, Cryptic Prophet"
+  },
+  {
+    "key": "dac_ability_mirana_arrow_lore",
+    "content": "Never trust a zealot Wren, it's not worth it.",
+    "author": "In which Jull gives friendly advice"
+  },
+  {
+    "key": "dac_ability_slark_essence_shift_lore",
+    "content": "Slark is instrumental in moving our product in and out of Dark Reef.",
+    "author": "Jull, Self"
+  },
+  {
+    "key": "dac_ability_slark_pounce_lore",
+    "content": "How did he get the drop on us again!?",
+    "author": "Hobgen, Fiery Temper"
+  },
+  {
+    "key": "dac_ability_faceless_void_chronocube_lore",
+    "content": "Claszureme is going to interfere.  This could be a problem.",
+    "author": "In which Jull realizes that he can't punch Time"
+  },
+  {
+    "key": "dac_ability_faceless_void_time_walk_lore",
+    "content": "Please, I wouldn't touch one of those damn hourglasses, you think I want Pierpont snooping around here?",
+    "author": "Hobgen, Sensible Maniac"
+  },
+  {
+    "key": "dac_ability_legion_commander_duel_lore",
+    "content": "There's no need to posture, Tresdin...I can help you find Rix.",
+    "author": "Anessix, Cool Under Pressure"
+  },
+  {
+    "key": "dac_ability_legion_commander_will_of_the_bullsnake_lore",
+    "content": "I know your kind, Commander, and you're one of the most dangerous creatures of all.  A believer.",
+    "author": "Wren, Student of the World"
+  },
+  {
+    "key": "dac_ability_nyx_assassin_spiked_carapace_lore",
+    "content": "The correct word is Arthropod.",
+    "author": "Quiet, Attention to Detail"
+  },
+  {
+    "key": "dac_ability_nyx_assassin_vendetta_lore",
+    "content": "Insect. Arthropod.  Who cares, the point is, I need him to kill someone now... can you get ahold of him or not?",
+    "author": "O'nia, Not a Fan of Being Corrected"
+  },
+  {
+    "key": "dac_ability_weaver_shukuchi_lore",
+    "content": "Weaver.  Together we will remake the world.",
+    "author": "Turath, Crazy Enough to do It"
+  },
+  {
+    "key": "dac_ability_broodmother_spin_web_lore",
+    "content": "I don't suppose I could hire your kiddos to spin me some silk?  I'm pretty sure spiders aren't covered by child labor laws.",
+    "author": "Carl, Ethical Tailor"
+  },
+  {
+    "key": "dac_ability_wisp_tether_lore",
+    "content": "In which Enno stares at Io intently"
+  },
+  {
+    "key": "dac_ability_wisp_relocate_lore",
+    "content": "In which Io stares back"
+  },
+  {
+    "key": "dac_ability_bristleback_quill_spray_lore",
+    "content": "Let me make something painfully clear.  You and Tusk are not breaking my bar tonight.",
+    "author": "Jull, Cooler"
+  },
+  {
+    "key": "dac_ability_life_stealer_feast_lore",
+    "content": "I don't appreciate you making assumptions that because of my condition I immediately know Lifestealers wearabouts.",
+    "author": "Carl, Often Misjudged"
+  },
+  {
+    "key": "dac_ability_dazzle_shadow_wave_lore",
+    "content": "And how much would it cost to retain your services? I have a vested interest in not dying.",
+    "author": "O'nia"
+  }
+]
