@@ -77,32 +77,38 @@ class Lore {
     if (this.options.language === 'random') {
       return this.options.meta
     }
-    return this.options.meta.filter(m => m.languages.includes(this.options.language))
+    return this.options.meta.filter(m => m.language === this.options.language)
   }
 
+  /**
+   * @example
+   * "{"key":"dac_item_blight_stone_lore","content":"A subtle, but effective tool.","author":"Zenok, White Spire Fence"}"
+   */
   async hitokoto() {
-    const meta = sample(this.metaList)
-    if (!meta) {
-      throw new Error('meta not found')
+    const selectedMeta = sample(this.metaList)
+    if (!selectedMeta) {
+      throw new Error('No list available')
     }
 
-    const language =
-      this.options.language === 'random' ? sample(meta.languages) : this.options.language
-    if (!language || !meta.languages.includes(language)) {
-      throw new Error('language not found')
-    }
-
-    const random = getRandomInt(0, meta.total - 1)
-    const url = `${this.options.baseUrl}/${meta.name}/${language}/${random}.json`
+    const random = getRandomInt(0, selectedMeta.total - 1)
+    const url = `${this.options.baseUrl}/${selectedMeta.id}/${selectedMeta.language}/${random}.json`
     if (!globalThis.fetch) {
-      console.log(url)
       throw new Error('fetch not found')
     }
     const resp = await fetch(url)
     const data: Hitokoto = await resp.json()
-    return data
+    return {
+      ...data,
+      language: selectedMeta.language,
+      from: selectedMeta.name,
+      created: selectedMeta.created,
+    }
   }
 
+  /**
+   * @example
+   * "Don't tell anyone, but you're my favorite criminal mastermind. — Zenok, White Spire Fence"
+   */
   async fastHitokoto() {
     const hitokoto = await this.hitokoto()
     return `${hitokoto.content}${hitokoto.author ? ` — ${hitokoto.author}` : ''}`

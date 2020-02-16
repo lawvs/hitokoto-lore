@@ -1,22 +1,44 @@
 [
   {
-    "name": "underlords",
-    "languages": [
-      "zh-CN",
-      "ja-JP",
-      "en-US"
-    ],
+    "id": "underlords",
+    "name": "Dota Underlords",
+    "language": "en-US",
     "total": 105,
-    "created": "2020-02-09T17:44:35.982Z"
+    "created": "2020-02-16T18:08:14.156Z"
   },
   {
-    "name": "underlords-abilities",
-    "languages": [
-      "zh-CN",
-      "ja-JP",
-      "en-US"
-    ],
+    "id": "underlords",
+    "name": "Dota Underlords",
+    "language": "ja-JP",
+    "total": 105,
+    "created": "2020-02-16T18:08:14.156Z"
+  },
+  {
+    "id": "underlords",
+    "name": "刀塔霸业",
+    "language": "zh-CN",
+    "total": 105,
+    "created": "2020-02-16T18:08:14.156Z"
+  },
+  {
+    "id": "underlords-abilities",
+    "name": "Dota Underlords",
+    "language": "en-US",
     "total": 88,
-    "created": "2020-02-09T17:44:35.996Z"
+    "created": "2020-02-16T18:08:14.156Z"
+  },
+  {
+    "id": "underlords-abilities",
+    "name": "Dota Underlords",
+    "language": "ja-JP",
+    "total": 88,
+    "created": "2020-02-16T18:08:14.156Z"
+  },
+  {
+    "id": "underlords-abilities",
+    "name": "刀塔霸业",
+    "language": "zh-CN",
+    "total": 88,
+    "created": "2020-02-16T18:08:14.156Z"
   }
 ]
