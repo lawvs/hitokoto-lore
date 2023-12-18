@@ -33,12 +33,14 @@
 
   <script src="./main.umd.js"></script>
   <script>
-    const lore = new Lore({ language: 'random' })
+    const lore = new Lore({ language: "random" });
     const update = () => {
-      lore.fastHitokoto().then((t) => (document.querySelector('#lore').textContent = t))
-    }
+      lore
+        .fastHitokoto()
+        .then((t) => (document.querySelector("#lore").textContent = t));
+    };
 
-    update()
-    setInterval(update, 3000)
+    update();
+    setInterval(update, 3000);
   </script>
 </html>

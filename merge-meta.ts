@@ -1,5 +1,5 @@
-import fs from 'fs-extra'
-import path from 'path'
+import fs from "fs-extra";
+import path from "path";
 
 const metaList = fs
   //['index.html', 'main.js', 'underlords', 'underlords-abilities']
@@ -9,8 +9,12 @@ const metaList = fs
   // filter folder
   .filter((path) => fs.lstatSync(path).isDirectory())
   .flatMap((p) => fs.readdirSync(p).map((filename) => path.join(p, filename)))
-  .map((p) => path.join(p, 'meta.json'))
-  .filter((metafile) => fs.existsSync(metafile) && fs.lstatSync(metafile).isFile())
-  .map((metafile) => fs.readJSONSync(metafile))
+  .map((p) => path.join(p, "meta.json"))
+  .filter(
+    (metafile) => fs.existsSync(metafile) && fs.lstatSync(metafile).isFile()
+  )
+  .map((metafile) => fs.readJSONSync(metafile));
 
-fs.outputJsonSync(path.resolve(process.env.ROOT, 'meta.json'), metaList, { spaces: 2 })
+fs.outputJsonSync(path.resolve(process.env.ROOT, "meta.json"), metaList, {
+  spaces: 2,
+});
