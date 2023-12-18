@@ -1,9 +1,12 @@
 // https://github.com/odota/underlordsconstants
 import fs from 'fs-extra'
-import path from 'path'
+import path from 'node:path'
+import { createRequire } from 'node:module';
 
-const outputDir = path.resolve(global.BUILD_ROOT, './underlords')
-const abilitiesOutputDir = path.resolve(global.BUILD_ROOT, './underlords-abilities')
+const require = createRequire(import.meta.url);
+
+const outputDir = path.resolve(process.env.BUILD_ROOT, './underlords')
+const abilitiesOutputDir = path.resolve(process.env.BUILD_ROOT, './underlords-abilities')
 
 const now = new Date()
 
@@ -33,9 +36,7 @@ const LANGUAGE_MAPPING = [
 const files = LANGUAGE_MAPPING.map(({ fileKey, locale, delimiter }) => ({
   delimiter,
   locale,
-  name: require(`underlordsconstants/build/underlords_localization_${fileKey}.json`)[
-    'dac_gamename'
-  ],
+  name: require(`underlordsconstants/build/underlords_localization_${fileKey}.json`)['dac_gamename'],
   data: require(`underlordsconstants/build/underlords_localization_${fileKey}.json`),
 }))
 
@@ -59,7 +60,7 @@ const blockKeys = [
  * @example
  * { "dac_item_claymore_lore": "What do ya want me to say, it's a sword. - <i>Zenok, White Spire Fence</i>" }
  */
-const filterKey = json =>
+const filterKey = (json) =>
   Object.fromEntries(
     Object.entries(json)
       .map(([key, value]) => [key.trim(), value.trim()])
@@ -93,7 +94,7 @@ const format = ({ delimiter, data, ...rest }) => ({
 /**
  * @param {{ locale: string, data: Object[]}} json
  */
-const output = (id, dir) => json => {
+const output = (id, dir) => (json) => {
   const langDir = path.resolve(dir, json.locale)
   fs.ensureDirSync(langDir)
   // output complete data
@@ -115,7 +116,7 @@ const output = (id, dir) => json => {
   return json
 }
 
-const mapData = f => json => ({ ...json, data: f(json.data) })
+const mapData = (f) => (json) => ({ ...json, data: f(json.data) })
 
 /**
  * @type {{locale: string, data: { author?: string, content: string }}[]}
@@ -130,9 +131,7 @@ console.log('Build underlords abilities...')
 const abilitiesFiles = LANGUAGE_MAPPING.map(({ fileKey, locale, delimiter }) => ({
   delimiter,
   locale,
-  name: require(`underlordsconstants/build/underlords_localization_${fileKey}.json`)[
-    'dac_gamename'
-  ],
+  name: require(`underlordsconstants/build/underlords_localization_${fileKey}.json`)['dac_gamename'],
   data: require(`underlordsconstants/build/underlords_localization_abilities_${fileKey}.json`),
 }))
 
