@@ -12,7 +12,7 @@ process.env.ROOT = __dirname;
 fs.ensureDirSync(buildDir);
 
 console.log("Build underlords...");
-import("./underlords.ts");
+await import("./underlords.ts");
 console.log("Merge meta information...");
-import("./merge-meta.ts");
+await import("./merge-meta.ts");
 console.log("Build Success.");

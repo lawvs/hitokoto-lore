@@ -1,5 +1,7 @@
 import fs from "fs-extra";
-import path from "path";
+import path from "node:path";
+
+console.log("Build meta data...");
 
 const metaList = fs
   //['index.html', 'main.js', 'underlords', 'underlords-abilities']

@@ -64,7 +64,7 @@ function getRandomInt(min: number, max: number) {
  */
 class Lore {
   defaultOptions: Readonly<LoreOptions> = {
-    baseUrl: "https://raw.githubusercontent.com/lawvs/hitokoto-lore/gh-pages",
+    baseUrl: "https://lawvs.github.io/hitokoto-lore/",
     language: formatLang(globalThis?.navigator?.language),
     meta,
   };
