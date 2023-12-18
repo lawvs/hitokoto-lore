@@ -31,11 +31,11 @@
     </main>
   </body>
 
-  <script src="./main.global.js"></script>
+  <script src="./main.umd.js"></script>
   <script>
     const lore = new Lore({ language: 'random' })
     const update = () => {
-      lore.fastHitokoto().then(t => (document.querySelector('#lore').textContent = t))
+      lore.fastHitokoto().then((t) => (document.querySelector('#lore').textContent = t))
     }
 
     update()
