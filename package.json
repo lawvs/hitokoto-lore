@@ -6,7 +6,7 @@
   "module": "build/index.es.js",
   "packageManager": "pnpm@8.11.0",
   "scripts": {
-    "start": "pnpm clean && pnpm update && pnpm build && cp index.html build",
+    "start": "pnpm run clean && pnpm run update && pnpm run build && cp index.html build",
     "dev": "vite preview",
     "build": "tsc && vite build",
     "update": "node --loader ts-node/esm build.ts",
