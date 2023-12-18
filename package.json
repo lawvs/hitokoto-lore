@@ -4,6 +4,7 @@
   "description": "hitokoto",
   "type": "module",
   "module": "build/index.es.js",
+  "packageManager": "pnpm@8.11.0",
   "scripts": {
     "start": "pnpm clean && pnpm update && pnpm build && cp index.html build",
     "dev": "vite preview",
