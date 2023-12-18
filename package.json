@@ -2,11 +2,13 @@
   "name": "hitokoto-lore",
   "version": "0.1.0",
   "description": "hitokoto",
-  "module": "build/index.esm.js",
+  "type": "module",
+  "module": "build/index.es.js",
   "scripts": {
-    "start": "yarn clean && yarn update && yarn build && cp index.html build",
-    "build": "rollup -c rollup.config.js",
-    "update": "node build.js",
+    "start": "pnpm clean && pnpm update && pnpm build && cp index.html build",
+    "dev": "vite preview",
+    "build": "tsc && vite build",
+    "update": "node --loader ts-node/esm build.ts",
     "clean": "rm -rf build",
     "deploy": "./deploy.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,21 +26,13 @@
     "lodash.sample": "^4.2.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.7.7",
-    "@babel/plugin-proposal-optional-chaining": "^7.7.5",
-    "@babel/preset-env": "^7.7.7",
-    "@babel/register": "^7.7.7",
-    "@rollup/plugin-commonjs": "^11.0.0",
-    "@rollup/plugin-json": "^4.0.1",
-    "@rollup/plugin-node-resolve": "^6.0.0",
-    "@rollup/plugin-typescript": "^2.0.1",
-    "@types/fs-extra": "^8.0.1",
-    "@types/lodash.sample": "^4.2.6",
-    "@types/node": "^13.1.1",
-    "fs-extra": "^8.1.0",
-    "rollup": "^1.27.14",
-    "tslib": "^1.10.0",
-    "typescript": "^3.7.4",
-    "underlordsconstants": "github:odota/underlordsconstants"
+    "@types/fs-extra": "^11.0.4",
+    "@types/lodash.sample": "^4.2.9",
+    "@types/node": "^20.10.5",
+    "fs-extra": "^11.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "underlordsconstants": "github:odota/underlordsconstants",
+    "vite": "^5.0.10"
   }
 }
